@@ -1,0 +1,334 @@
+Tcsc350_3
+v7
+r0
+t326154692.294894
+cCheck dependencies
+cCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/main.o /Users/Los/Desktop/csc350_3/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Secant.o /Users/Los/Desktop/csc350_3/Secant.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Interpolation.o /Users/Los/Desktop/csc350_3/Interpolation.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Function1D.o /Users/Los/Desktop/csc350_3/Function1D.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver_bisection.o /Users/Los/Desktop/csc350_3/NonlinearSolver_bisection.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver.o /Users/Los/Desktop/csc350_3/NonlinearSolver.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/PolyFunction1D.o /Users/Los/Desktop/csc350_3/PolyFunction1D.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Newton.o /Users/Los/Desktop/csc350_3/Newton.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/SolutionNLE.o /Users/Los/Desktop/csc350_3/SolutionNLE.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CCE191A00000000000000EE
+t1288575258
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004AC599B500000000000004F1
+t1254463925
+s1265
+
+N/Users/Los/Desktop/csc350_3/ColVec.h
+c000000004DB6FB4C00000000000001AA
+t1303837516
+s426
+i"Matrix.h"
+
+N/Users/Los/Desktop/csc350_3/Function1D.cpp
+c000000004DA4D9C40000000000000269
+t1302649284
+s617
+i"Function1D.h"
+
+N/Users/Los/Desktop/csc350_3/Function1D.h
+c000000004DA5CED80000000000000231
+t1302712024
+s561
+i<math.h>
+
+N/Users/Los/Desktop/csc350_3/Interpolation.cpp
+c000000004DB711700000000000000C28
+t1303843184
+s3112
+i"Interpolation.h"
+
+N/Users/Los/Desktop/csc350_3/Interpolation.h
+c000000004DB0C7E700000000000001EC
+t1303431143
+s492
+i"PolyFunction1D.h"
+i"Matrix.h"
+i"ColVec.h"
+i<cmath>
+
+N/Users/Los/Desktop/csc350_3/Matrix.h
+c000000004DB857140000000000003592
+t1303926548
+s13714
+i<vector>
+i<iostream>
+i<cmath>
+
+N/Users/Los/Desktop/csc350_3/Newton.cpp
+c000000004DB2F9A80000000000000957
+t1303574952
+s2391
+i<iostream>
+i"Newton.h"
+
+N/Users/Los/Desktop/csc350_3/Newton.h
+c000000004DAE3EC90000000000000294
+t1303264969
+s660
+i"SolutionNLE.h"
+i"NonlinearSolver.h"
+
+N/Users/Los/Desktop/csc350_3/NonlinearSolver.cpp
+c000000004DAD1E6E000000000000035A
+t1303191150
+s858
+i"NonlinearSolver.h"
+
+N/Users/Los/Desktop/csc350_3/NonlinearSolver.h
+c000000004DAD1E6E0000000000000372
+t1303191150
+s882
+i"SolutionNLE.h"
+i"NonlinearSolver.h"
+
+N/Users/Los/Desktop/csc350_3/NonlinearSolver_bisection.cpp
+c000000004DB2F7FB0000000000000427
+t1303574523
+s1063
+i"NonlinearSolver_bisection.h"
+
+N/Users/Los/Desktop/csc350_3/NonlinearSolver_bisection.h
+c000000004DA5D0EB0000000000000199
+t1302712555
+s409
+i"NonlinearSolver.h"
+
+N/Users/Los/Desktop/csc350_3/PolyFunction1D.cpp
+c000000004DB0C84F00000000000004D0
+t1303431247
+s1232
+i<iostream>
+i"PolyFunction1D.h"
+
+N/Users/Los/Desktop/csc350_3/PolyFunction1D.h
+c000000004DB0C85F0000000000000244
+t1303431263
+s580
+i"Function1D.h"
+
+N/Users/Los/Desktop/csc350_3/RowVec.h
+c000000004DB6FB4C00000000000001AC
+t1303837516
+s428
+i"Matrix.h"
+
+N/Users/Los/Desktop/csc350_3/Secant.cpp
+c000000004DAE3B760000000000000B5C
+t1303264118
+s2908
+i"Secant.h"
+i<iostream>
+
+N/Users/Los/Desktop/csc350_3/Secant.h
+c000000004DAE3EC9000000000000029B
+t1303264969
+s667
+i"SolutionNLE.h"
+i"NonlinearSolver.h"
+
+N/Users/Los/Desktop/csc350_3/SolutionNLE.cpp
+c000000004D9E15B30000000000000226
+t1302205875
+s550
+i"SolutionNLE.h"
+
+N/Users/Los/Desktop/csc350_3/SolutionNLE.h
+c000000004D9E92070000000000000260
+t1302237703
+s608
+i"Function1D.h"
+
+N/Users/Los/Desktop/csc350_3/build/Debug/csc350_3
+t2
+s0
+
+N/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Function1D.o
+t1304461891
+s6372
+
+N/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Interpolation.o
+t1304461891
+s213660
+
+N/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Newton.o
+t1304461892
+s75716
+
+N/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver.o
+t1304461891
+s12636
+
+N/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver_bisection.o
+t1304461891
+s12276
+
+N/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/PolyFunction1D.o
+t1304461892
+s54588
+
+N/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Secant.o
+t1304461891
+s76356
+
+N/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/SolutionNLE.o
+t1304461892
+s7456
+
+N/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/csc350_3.LinkFileList
+c000000004DC0824300000000000003BF
+t1304461891
+s959
+
+N/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Los/Desktop/csc350_3/main.cpp
+c000000004DC082090000000000000F1E
+t1304461833
+s3870
+i<iostream>
+i"Matrix.h"
+i"ColVec.h"
+i"RowVec.h"
+i"NonlinearSolver_bisection.h"
+i"PolyFunction1D.h"
+i"Function1D.h"
+i"Newton.h"
+i"Secant.h"
+i"Interpolation.h"
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies326154691#326154691#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Function1D.o /Users/Los/Desktop/csc350_3/Function1D.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s326154691.779347
+e326154691.809250
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Function1D.o
+x/Users/Los/Desktop/csc350_3/Function1D.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/Los/Desktop/csc350_3/Function1D.cpp326154691#326154691#0(0"0(0#0#42"/Users/Los/Desktop/csc350_3/Function1D.cpp8607704608#1200"    cd /Users/Los/Desktop/csc350_3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap -F/Users/Los/Desktop/csc350_3/build/Debug -I/Users/Los/Desktop/csc350_3/build/Debug/include -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64 -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources -c /Users/Los/Desktop/csc350_3/Function1D.cpp -o /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Function1D.o0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Interpolation.o /Users/Los/Desktop/csc350_3/Interpolation.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s326154691.421486
+e326154692.002960
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Interpolation.o
+x/Users/Los/Desktop/csc350_3/Interpolation.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/Los/Desktop/csc350_3/Interpolation.cpp326154691#326154692#0(0"0(0#0#45"/Users/Los/Desktop/csc350_3/Interpolation.cpp3917909816998063104#1206"    cd /Users/Los/Desktop/csc350_3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap -F/Users/Los/Desktop/csc350_3/build/Debug -I/Users/Los/Desktop/csc350_3/build/Debug/include -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64 -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources -c /Users/Los/Desktop/csc350_3/Interpolation.cpp -o /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Interpolation.o0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Newton.o /Users/Los/Desktop/csc350_3/Newton.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s326154692.003043
+e326154692.294805
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Newton.o
+x/Users/Los/Desktop/csc350_3/Newton.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/Los/Desktop/csc350_3/Newton.cpp326154692#326154692#0(0"0(0#0#38"/Users/Los/Desktop/csc350_3/Newton.cpp8606808800#1192"    cd /Users/Los/Desktop/csc350_3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap -F/Users/Los/Desktop/csc350_3/build/Debug -I/Users/Los/Desktop/csc350_3/build/Debug/include -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64 -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources -c /Users/Los/Desktop/csc350_3/Newton.cpp -o /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Newton.o0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver.o /Users/Los/Desktop/csc350_3/NonlinearSolver.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s326154691.847563
+e326154691.883419
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver.o
+x/Users/Los/Desktop/csc350_3/NonlinearSolver.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/Los/Desktop/csc350_3/NonlinearSolver.cpp326154691#326154691#0(0"0(0#0#47"/Users/Los/Desktop/csc350_3/NonlinearSolver.cpp8607404768#1210"    cd /Users/Los/Desktop/csc350_3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap -F/Users/Los/Desktop/csc350_3/build/Debug -I/Users/Los/Desktop/csc350_3/build/Debug/include -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64 -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources -c /Users/Los/Desktop/csc350_3/NonlinearSolver.cpp -o /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver.o0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver_bisection.o /Users/Los/Desktop/csc350_3/NonlinearSolver_bisection.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s326154691.809337
+e326154691.847477
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver_bisection.o
+x/Users/Los/Desktop/csc350_3/NonlinearSolver_bisection.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/Los/Desktop/csc350_3/NonlinearSolver_bisection.cpp326154691#326154691#0(0"0(0#0#57"/Users/Los/Desktop/csc350_3/NonlinearSolver_bisection.cpp8607658880#1230"    cd /Users/Los/Desktop/csc350_3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap -F/Users/Los/Desktop/csc350_3/build/Debug -I/Users/Los/Desktop/csc350_3/build/Debug/include -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64 -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources -c /Users/Los/Desktop/csc350_3/NonlinearSolver_bisection.cpp -o /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver_bisection.o0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/PolyFunction1D.o /Users/Los/Desktop/csc350_3/PolyFunction1D.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s326154691.883506
+e326154692.193899
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/PolyFunction1D.o
+x/Users/Los/Desktop/csc350_3/PolyFunction1D.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/Los/Desktop/csc350_3/PolyFunction1D.cpp326154691#326154692#0(0"0(0#0#46"/Users/Los/Desktop/csc350_3/PolyFunction1D.cpp8607296224#1208"    cd /Users/Los/Desktop/csc350_3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap -F/Users/Los/Desktop/csc350_3/build/Debug -I/Users/Los/Desktop/csc350_3/build/Debug/include -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64 -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources -c /Users/Los/Desktop/csc350_3/PolyFunction1D.cpp -o /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/PolyFunction1D.o0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Secant.o /Users/Los/Desktop/csc350_3/Secant.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s326154691.395790
+e326154691.779264
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Secant.o
+x/Users/Los/Desktop/csc350_3/Secant.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/Los/Desktop/csc350_3/Secant.cpp326154691#326154691#0(0"0(0#0#38"/Users/Los/Desktop/csc350_3/Secant.cpp8602826240#1192"    cd /Users/Los/Desktop/csc350_3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap -F/Users/Los/Desktop/csc350_3/build/Debug -I/Users/Los/Desktop/csc350_3/build/Debug/include -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64 -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources -c /Users/Los/Desktop/csc350_3/Secant.cpp -o /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Secant.o0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/SolutionNLE.o /Users/Los/Desktop/csc350_3/SolutionNLE.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s326154692.193974
+e326154692.227308
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/SolutionNLE.o
+x/Users/Los/Desktop/csc350_3/SolutionNLE.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/Los/Desktop/csc350_3/SolutionNLE.cpp326154692#326154692#0(0"0(0#0#43"/Users/Los/Desktop/csc350_3/SolutionNLE.cpp8606673952#1202"    cd /Users/Los/Desktop/csc350_3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap -F/Users/Los/Desktop/csc350_3/build/Debug -I/Users/Los/Desktop/csc350_3/build/Debug/include -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64 -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources -c /Users/Los/Desktop/csc350_3/SolutionNLE.cpp -o /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/SolutionNLE.o0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/main.o /Users/Los/Desktop/csc350_3/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s326154691.367208
+e326154691.395723
+r0
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/main.o
+x/Users/Los/Desktop/csc350_3/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/Los/Desktop/csc350_3/main.cpp326154691#326154691#0(6396"/Users/Los/Desktop/csc350_3/main.cpp:2:20: error: Matrix.h: No such file or directory/Users/Los/Desktop/csc350_3/main.cpp:3:20: error: ColVec.h: No such file or directory/Users/Los/Desktop/csc350_3/main.cpp:4:20: error: RowVec.h: No such file or directory/Users/Los/Desktop/csc350_3/main.cpp:5:39: error: NonlinearSolver_bisection.h: No such file or directory/Users/Los/Desktop/csc350_3/main.cpp:6:28: error: PolyFunction1D.h: No such file or directory/Users/Los/Desktop/csc350_3/main.cpp:7:24: error: Function1D.h: No such file or directory/Users/Los/Desktop/csc350_3/main.cpp:8:20: error: Newton.h: No such file or directory/Users/Los/Desktop/csc350_3/main.cpp:9:20: error: Secant.h: No such file or directory/Users/Los/Desktop/csc350_3/main.cpp:10:27: error: Interpolation.h: No such file or directory/Users/Los/Desktop/csc350_3/main.cpp:13: error: 'csc350Lib_calc_base' is not a namespace-name/Users/Los/Desktop/csc350_3/main.cpp:13: error: expected namespace-name before ';' token/Users/Los/Desktop/csc350_3/main.cpp:14: error: 'csc350Lib_calculus_snle' is not a namespace-name/Users/Los/Desktop/csc350_3/main.cpp:14: error: expected namespace-name before ';' token/Users/Los/Desktop/csc350_3/main.cpp:15: error: 'csc350lib_linalg_base' is not a namespace-name/Users/Los/Desktop/csc350_3/main.cpp:15: error: expected namespace-name before ';' token/Users/Los/Desktop/csc350_3/main.cpp: In function 'int main(int, char* const*)':/Users/Los/Desktop/csc350_3/main.cpp:45: error: 'Interpolation' was not declared in this scope/Users/Los/Desktop/csc350_3/main.cpp:45: error: 'polynomial' was not declared in this scope/Users/Los/Desktop/csc350_3/main.cpp:46: error: expected type-specifier before 'Interpolation'/Users/Los/Desktop/csc350_3/main.cpp:46: error: expected `;' before 'Interpolation'/Users/Los/Desktop/csc350_3/main.cpp:48: error: 'trigonometric' was not declared in this scope/Users/Los/Desktop/csc350_3/main.cpp:49: error: expected type-specifier before 'Interpolation'/Users/Los/Desktop/csc350_3/main.cpp:49: error: expected `;' before 'Interpolation'/Users/Los/Desktop/csc350_3/main.cpp:51: error: 'lagrange' was not declared in this scope/Users/Los/Desktop/csc350_3/main.cpp:52: error: expected type-specifier before 'Interpolation'/Users/Los/Desktop/csc350_3/main.cpp:52: error: expected `;' before 'Interpolation'/Users/Los/Desktop/csc350_3/main.cpp:55: error: 'PolyFunction1D' was not declared in this scope/Users/Los/Desktop/csc350_3/main.cpp:55: error: 'polynomial_interpolation' was not declared in this scope/Users/Los/Desktop/csc350_3/main.cpp:56: error: expected type-specifier before 'PolyFunction1D'/Users/Los/Desktop/csc350_3/main.cpp:56: error: expected `;' before 'PolyFunction1D'/Users/Los/Desktop/csc350_3/main.cpp:58: error: 'trigonometric_interpolation' was not declared in this scope/Users/Los/Desktop/csc350_3/main.cpp:59: error: expected type-specifier before 'PolyFunction1D'/Users/Los/Desktop/csc350_3/main.cpp:59: error: expected `;' before 'PolyFunction1D'/Users/Los/Desktop/csc350_3/main.cpp:83: error: 'NonlinearSolver' was not declared in this scope/Users/Los/Desktop/csc350_3/main.cpp:83: error: 'nlsNewton' was not declared in this scope/Users/Los/Desktop/csc350_3/main.cpp:84: error: expected type-specifier before 'Newton'/Users/Los/Desktop/csc350_3/main.cpp:84: error: expected `;' before 'Newton'/Users/Los/Desktop/csc350_3/main.cpp:86: error: 'nlsSecant' was not declared in this scope/Users/Los/Desktop/csc350_3/main.cpp:87: error: expected type-specifier before 'Secant'/Users/Los/Desktop/csc350_3/main.cpp:87: error: expected `;' before 'Secant'/Users/Los/Desktop/csc350_3/main.cpp:89: error: 'Function1D' was not declared in this scope/Users/Los/Desktop/csc350_3/main.cpp:89: error: 'f1' was not declared in this scope/Users/Los/Desktop/csc350_3/main.cpp:89: error: 'f2' was not declared in this scope/Users/Los/Desktop/csc350_3/main.cpp:93: error: expected type-specifier before 'PolyFunction1D'/Users/Los/Desktop/csc350_3/main.cpp:93: error: expected `;' before 'PolyFunction1D'/Users/Los/Desktop/csc350_3/main.cpp:97: error: expected type-specifier before 'PolyFunction1D'/Users/Los/Desktop/csc350_3/main.cpp:97: error: expected `;' before 'PolyFunction1D'/Users/Los/Desktop/csc350_3/main.cpp:116: error: 'Matrix' was not declared in this scope/Users/Los/Desktop/csc350_3/main.cpp:116: error: expected primary-expression before 'float'/Users/Los/Desktop/csc350_3/main.cpp:116: error: expected `;' before 'float'/Users/Los/Desktop/csc350_3/main.cpp:120: error: expected primary-expression before 'float'/Users/Los/Desktop/csc350_3/main.cpp:120: error: expected `;' before 'float'/Users/Los/Desktop/csc350_3/main.cpp:122: error: expected primary-expression before 'float'/Users/Los/Desktop/csc350_3/main.cpp:122: error: expected `;' before 'float'/Users/Los/Desktop/csc350_3/main.cpp:125: error: 'AnswerMatrix' was not declared in this scope/Users/Los/Desktop/csc350_3/main.cpp:125: error: 'FourbyFour' was not declared in this scope/Users/Los/Desktop/csc350_3/main.cpp:125: error: 'bColumn' was not declared in this scope/Users/Los/Desktop/csc350_3/main.cpp:137: error: expected primary-expression before 'float'/Users/Los/Desktop/csc350_3/main.cpp:137: error: expected `;' before 'float'/Users/Los/Desktop/csc350_3/main.cpp:138: error: expected primary-expression before 'float'/Users/Los/Desktop/csc350_3/main.cpp:138: error: expected `;' before 'float'/Users/Los/Desktop/csc350_3/main.cpp:139: error: 'fourfive' was not declared in this scope/Users/Los/Desktop/csc350_3/main.cpp:140: error: expected primary-expression before 'float'/Users/Los/Desktop/csc350_3/main.cpp:140: error: expected `;' before 'float'/Users/Los/Desktop/csc350_3/main.cpp:141: error: 'temp' was not declared in this scope/Users/Los/Desktop/csc350_3/main.cpp:141: error: 'real45m' was not declared in this scope/Users/Los/Desktop/csc350_3/main.cpp:92: warning: unused variable 'numbers1'/Users/Los/Desktop/csc350_3/main.cpp:96: warning: unused variable 'numbers'/Users/Los/Desktop/csc350_3/main.cpp:112: warning: unused variable 'FourbyFourArray'/Users/Los/Desktop/csc350_3/main.cpp:119: warning: unused variable 'FourbyFourAnswer'/Users/Los/Desktop/csc350_3/main.cpp:135: warning: unused variable 'fourbyfivearray'/Users/Los/Desktop/csc350_3/main.cpp:136: warning: unused variable 'real45'71(4@35"Matrix.h: No such file or directory326154691#0#86#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#2#0#2#0#28"*: No such file or directory0(4@35"ColVec.h: No such file or directory326154691#86#86#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#3#0#3#0#28"*: No such file or directory0(4@35"RowVec.h: No such file or directory326154691#172#86#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#4#0#4#0#28"*: No such file or directory0(4@54"NonlinearSolver_bisection.h: No such file or directory326154691#258#105#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#5#0#5#0#28"*: No such file or directory0(4@43"PolyFunction1D.h: No such file or directory326154691#363#94#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#6#0#6#0#28"*: No such file or directory0(4@39"Function1D.h: No such file or directory326154691#457#90#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#7#0#7#0#28"*: No such file or directory0(4@35"Newton.h: No such file or directory326154691#547#86#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#8#0#8#0#28"*: No such file or directory0(4@35"Secant.h: No such file or directory326154691#633#86#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#9#0#9#0#28"*: No such file or directory0(4@42"Interpolation.h: No such file or directory326154691#719#94#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#10#0#10#0#28"*: No such file or directory0(4@45"'csc350Lib_calc_base' is not a namespace-name326154691#813#94#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#13#0#13#0#0"0(4@40"Expected namespace-name before ';' token326154691#907#89#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#13#0#13#0#19"expected * before *0(4@49"'csc350Lib_calculus_snle' is not a namespace-name326154691#996#98#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#14#0#14#0#0"0(4@40"Expected namespace-name before ';' token326154691#1094#89#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#14#0#14#0#19"expected * before *0(4@47"'csc350lib_linalg_base' is not a namespace-name326154691#1183#96#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#15#0#15#0#0"0(4@40"Expected namespace-name before ';' token326154691#1279#89#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#15#0#15#0#19"expected * before *0(4@46"'Interpolation' was not declared in this scope326154691#1449#95#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#45#0#45#0#34"'*' was not declared in this scope0(4@43"'polynomial' was not declared in this scope326154691#1544#92#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#45#0#45#0#34"'*' was not declared in this scope0(4@46"Expected type-specifier before 'Interpolation'326154691#1636#95#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#46#0#46#0#19"expected * before *0(4@35"Expected `;' before 'Interpolation'326154691#1731#84#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#46#0#46#0#19"expected * before *0(4@46"'trigonometric' was not declared in this scope326154691#1815#95#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#48#0#48#0#34"'*' was not declared in this scope0(4@46"Expected type-specifier before 'Interpolation'326154691#1910#95#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#49#0#49#0#19"expected * before *0(4@35"Expected `;' before 'Interpolation'326154691#2005#84#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#49#0#49#0#19"expected * before *0(4@41"'lagrange' was not declared in this scope326154691#2089#90#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#51#0#51#0#34"'*' was not declared in this scope0(4@46"Expected type-specifier before 'Interpolation'326154691#2179#95#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#52#0#52#0#19"expected * before *0(4@35"Expected `;' before 'Interpolation'326154691#2274#84#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#52#0#52#0#19"expected * before *0(4@47"'PolyFunction1D' was not declared in this scope326154691#2358#96#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#55#0#55#0#34"'*' was not declared in this scope0(4@57"'polynomial_interpolation' was not declared in this scope326154691#2454#106#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#55#0#55#0#34"'*' was not declared in this scope0(4@47"Expected type-specifier before 'PolyFunction1D'326154691#2560#96#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#56#0#56#0#19"expected * before *0(4@36"Expected `;' before 'PolyFunction1D'326154691#2656#85#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#56#0#56#0#19"expected * before *0(4@60"'trigonometric_interpolation' was not declared in this scope326154691#2741#109#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#58#0#58#0#34"'*' was not declared in this scope0(4@47"Expected type-specifier before 'PolyFunction1D'326154691#2850#96#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#59#0#59#0#19"expected * before *0(4@36"Expected `;' before 'PolyFunction1D'326154691#2946#85#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#59#0#59#0#19"expected * before *0(4@48"'NonlinearSolver' was not declared in this scope326154691#3031#97#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#83#0#83#0#34"'*' was not declared in this scope0(4@42"'nlsNewton' was not declared in this scope326154691#3128#91#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#83#0#83#0#34"'*' was not declared in this scope0(4@39"Expected type-specifier before 'Newton'326154691#3219#88#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#84#0#84#0#19"expected * before *0(4@28"Expected `;' before 'Newton'326154691#3307#77#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#84#0#84#0#19"expected * before *0(4@42"'nlsSecant' was not declared in this scope326154691#3384#91#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#86#0#86#0#34"'*' was not declared in this scope0(4@39"Expected type-specifier before 'Secant'326154691#3475#88#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#87#0#87#0#19"expected * before *0(4@28"Expected `;' before 'Secant'326154691#3563#77#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#87#0#87#0#19"expected * before *0(4@43"'Function1D' was not declared in this scope326154691#3640#92#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#89#0#89#0#34"'*' was not declared in this scope0(4@35"'f1' was not declared in this scope326154691#3732#84#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#89#0#89#0#34"'*' was not declared in this scope0(4@35"'f2' was not declared in this scope326154691#3816#84#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#89#0#89#0#34"'*' was not declared in this scope0(4@47"Expected type-specifier before 'PolyFunction1D'326154691#3900#96#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#93#0#93#0#19"expected * before *0(4@36"Expected `;' before 'PolyFunction1D'326154691#3996#85#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#93#0#93#0#19"expected * before *0(4@47"Expected type-specifier before 'PolyFunction1D'326154691#4081#96#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#97#0#97#0#19"expected * before *0(4@36"Expected `;' before 'PolyFunction1D'326154691#4177#85#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#97#0#97#0#19"expected * before *0(4@39"'Matrix' was not declared in this scope326154691#4262#89#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#116#0#116#0#34"'*' was not declared in this scope0(4@42"Expected primary-expression before 'float'326154691#4351#92#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#116#0#116#0#19"expected * before *0(4@27"Expected `;' before 'float'326154691#4443#77#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#116#0#116#0#19"expected * before *0(4@42"Expected primary-expression before 'float'326154691#4520#92#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#120#0#120#0#19"expected * before *0(4@27"Expected `;' before 'float'326154691#4612#77#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#120#0#120#0#19"expected * before *0(4@42"Expected primary-expression before 'float'326154691#4689#92#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#122#0#122#0#19"expected * before *0(4@27"Expected `;' before 'float'326154691#4781#77#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#122#0#122#0#19"expected * before *0(4@45"'AnswerMatrix' was not declared in this scope326154691#4858#95#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#125#0#125#0#34"'*' was not declared in this scope0(4@43"'FourbyFour' was not declared in this scope326154691#4953#93#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#125#0#125#0#34"'*' was not declared in this scope0(4@40"'bColumn' was not declared in this scope326154691#5046#90#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#125#0#125#0#34"'*' was not declared in this scope0(4@42"Expected primary-expression before 'float'326154691#5136#92#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#137#0#137#0#19"expected * before *0(4@27"Expected `;' before 'float'326154691#5228#77#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#137#0#137#0#19"expected * before *0(4@42"Expected primary-expression before 'float'326154691#5305#92#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#138#0#138#0#19"expected * before *0(4@27"Expected `;' before 'float'326154691#5397#77#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#138#0#138#0#19"expected * before *0(4@41"'fourfive' was not declared in this scope326154691#5474#91#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#139#0#139#0#34"'*' was not declared in this scope0(4@42"Expected primary-expression before 'float'326154691#5565#92#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#140#0#140#0#19"expected * before *0(4@27"Expected `;' before 'float'326154691#5657#77#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#140#0#140#0#19"expected * before *0(4@37"'temp' was not declared in this scope326154691#5734#87#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#141#0#141#0#34"'*' was not declared in this scope0(4@40"'real45m' was not declared in this scope326154691#5821#90#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#141#0#141#0#34"'*' was not declared in this scope0(22@26"Unused variable 'numbers1'326154691#5911#77#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#92#0#92#0#19"unused variable '*'0(22@25"Unused variable 'numbers'326154691#5988#76#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#96#0#96#0#19"unused variable '*'0(22@33"Unused variable 'FourbyFourArray'326154691#6064#85#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#112#0#112#0#19"unused variable '*'0(22@34"Unused variable 'FourbyFourAnswer'326154691#6149#86#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#119#0#119#0#19"unused variable '*'0(22@33"Unused variable 'fourbyfivearray'326154691#6235#85#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#135#0#135#0#19"unused variable '*'0(22@24"Unused variable 'real45'326154691#6320#76#0(6@36"/Users/Los/Desktop/csc350_3/main.cpp326154633#136#0#136#0#19"unused variable '*'0(0#0#36"/Users/Los/Desktop/csc350_3/main.cpp3917909816998063104#1188"    cd /Users/Los/Desktop/csc350_3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap -F/Users/Los/Desktop/csc350_3/build/Debug -I/Users/Los/Desktop/csc350_3/build/Debug/include -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64 -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources -c /Users/Los/Desktop/csc350_3/main.cpp -o /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/Los/Desktop/csc350_3/build/Debug/csc350_3 normal x86_64
+r0
+

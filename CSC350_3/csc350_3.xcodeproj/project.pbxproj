@@ -1,0 +1,266 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		823E227D1370B9B700352603 /* Secant.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 823E226A1370B9B700352603 /* Secant.cpp */; };
+		823E227E1370B9B700352603 /* Interpolation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 823E226E1370B9B700352603 /* Interpolation.cpp */; };
+		823E227F1370B9B700352603 /* Function1D.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 823E226F1370B9B700352603 /* Function1D.cpp */; };
+		823E22801370B9B700352603 /* NonlinearSolver_bisection.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 823E22711370B9B700352603 /* NonlinearSolver_bisection.cpp */; };
+		823E22811370B9B700352603 /* NonlinearSolver.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 823E22731370B9B700352603 /* NonlinearSolver.cpp */; };
+		823E22821370B9B700352603 /* PolyFunction1D.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 823E22751370B9B700352603 /* PolyFunction1D.cpp */; };
+		823E22831370B9B700352603 /* Newton.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 823E22781370B9B700352603 /* Newton.cpp */; };
+		823E22841370B9B700352603 /* SolutionNLE.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 823E227A1370B9B700352603 /* SolutionNLE.cpp */; };
+		82666488138E244A00941A38 /* EigensystemCalculator.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 82666486138E244A00941A38 /* EigensystemCalculator.cpp */; };
+		82A9D68A137E0E110095FC6D /* RealEigenpair.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 82A9D689137E0E110095FC6D /* RealEigenpair.cpp */; };
+		8DD76F650486A84900D96B5E /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 08FB7796FE84155DC02AAC07 /* main.cpp */; settings = {ATTRIBUTES = (); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		8DD76F690486A84900D96B5E /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 8;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		08FB7796FE84155DC02AAC07 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		823018B3145C6D6E0082DEE3 /* Assignment3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Assignment3.h; sourceTree = "<group>"; };
+		823E226A1370B9B700352603 /* Secant.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Secant.cpp; sourceTree = "<group>"; };
+		823E226B1370B9B700352603 /* Newton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Newton.h; sourceTree = "<group>"; };
+		823E226C1370B9B700352603 /* Matrix.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Matrix.h; sourceTree = "<group>"; };
+		823E226D1370B9B700352603 /* Interpolation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Interpolation.h; sourceTree = "<group>"; };
+		823E226E1370B9B700352603 /* Interpolation.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Interpolation.cpp; sourceTree = "<group>"; };
+		823E226F1370B9B700352603 /* Function1D.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Function1D.cpp; sourceTree = "<group>"; };
+		823E22701370B9B700352603 /* Function1D.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Function1D.h; sourceTree = "<group>"; };
+		823E22711370B9B700352603 /* NonlinearSolver_bisection.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = NonlinearSolver_bisection.cpp; sourceTree = "<group>"; };
+		823E22721370B9B700352603 /* NonlinearSolver_bisection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NonlinearSolver_bisection.h; sourceTree = "<group>"; };
+		823E22731370B9B700352603 /* NonlinearSolver.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = NonlinearSolver.cpp; sourceTree = "<group>"; };
+		823E22741370B9B700352603 /* NonlinearSolver.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NonlinearSolver.h; sourceTree = "<group>"; };
+		823E22751370B9B700352603 /* PolyFunction1D.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PolyFunction1D.cpp; sourceTree = "<group>"; };
+		823E22761370B9B700352603 /* PolyFunction1D.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PolyFunction1D.h; sourceTree = "<group>"; };
+		823E22771370B9B700352603 /* Secant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Secant.h; sourceTree = "<group>"; };
+		823E22781370B9B700352603 /* Newton.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Newton.cpp; sourceTree = "<group>"; };
+		823E227A1370B9B700352603 /* SolutionNLE.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SolutionNLE.cpp; sourceTree = "<group>"; };
+		823E227B1370B9B700352603 /* SolutionNLE.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SolutionNLE.h; sourceTree = "<group>"; };
+		82666486138E244A00941A38 /* EigensystemCalculator.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = EigensystemCalculator.cpp; sourceTree = "<group>"; };
+		82666487138E244A00941A38 /* EigensystemCalculator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EigensystemCalculator.h; sourceTree = "<group>"; };
+		82A9D688137E0E110095FC6D /* RealEigenpair.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RealEigenpair.h; sourceTree = "<group>"; };
+		82A9D689137E0E110095FC6D /* RealEigenpair.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RealEigenpair.cpp; sourceTree = "<group>"; };
+		82E9E8B9144DD38E005F8126 /* ColVec.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColVec.h; sourceTree = "<group>"; };
+		82E9E8BB144DD3AD005F8126 /* RowVec.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RowVec.h; sourceTree = "<group>"; };
+		8DD76F6C0486A84900D96B5E /* csc350_3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = csc350_3; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8DD76F660486A84900D96B5E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		08FB7794FE84155DC02AAC07 /* csc350_3 */ = {
+			isa = PBXGroup;
+			children = (
+				08FB7795FE84155DC02AAC07 /* Source */,
+				1AB674ADFE9D54B511CA2CBB /* Products */,
+			);
+			name = csc350_3;
+			sourceTree = "<group>";
+		};
+		08FB7795FE84155DC02AAC07 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				08FB7796FE84155DC02AAC07 /* main.cpp */,
+				823E226C1370B9B700352603 /* Matrix.h */,
+				823E22701370B9B700352603 /* Function1D.h */,
+				823E226F1370B9B700352603 /* Function1D.cpp */,
+				823E226D1370B9B700352603 /* Interpolation.h */,
+				823E226E1370B9B700352603 /* Interpolation.cpp */,
+				823E226B1370B9B700352603 /* Newton.h */,
+				823E22781370B9B700352603 /* Newton.cpp */,
+				823E22741370B9B700352603 /* NonlinearSolver.h */,
+				823E22731370B9B700352603 /* NonlinearSolver.cpp */,
+				823E22721370B9B700352603 /* NonlinearSolver_bisection.h */,
+				823E22711370B9B700352603 /* NonlinearSolver_bisection.cpp */,
+				823E22761370B9B700352603 /* PolyFunction1D.h */,
+				823E22751370B9B700352603 /* PolyFunction1D.cpp */,
+				82A9D688137E0E110095FC6D /* RealEigenpair.h */,
+				82A9D689137E0E110095FC6D /* RealEigenpair.cpp */,
+				823E22771370B9B700352603 /* Secant.h */,
+				823E226A1370B9B700352603 /* Secant.cpp */,
+				823E227B1370B9B700352603 /* SolutionNLE.h */,
+				823E227A1370B9B700352603 /* SolutionNLE.cpp */,
+				82666486138E244A00941A38 /* EigensystemCalculator.cpp */,
+				82666487138E244A00941A38 /* EigensystemCalculator.h */,
+				82E9E8BB144DD3AD005F8126 /* RowVec.h */,
+				82E9E8B9144DD38E005F8126 /* ColVec.h */,
+				823018B3145C6D6E0082DEE3 /* Assignment3.h */,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		1AB674ADFE9D54B511CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8DD76F6C0486A84900D96B5E /* csc350_3 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8DD76F620486A84900D96B5E /* csc350_3 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1DEB923108733DC60010E9CD /* Build configuration list for PBXNativeTarget "csc350_3" */;
+			buildPhases = (
+				8DD76F640486A84900D96B5E /* Sources */,
+				8DD76F660486A84900D96B5E /* Frameworks */,
+				8DD76F690486A84900D96B5E /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = csc350_3;
+			productInstallPath = "$(HOME)/bin";
+			productName = csc350_3;
+			productReference = 8DD76F6C0486A84900D96B5E /* csc350_3 */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		08FB7793FE84155DC02AAC07 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 1DEB923508733DC60010E9CD /* Build configuration list for PBXProject "csc350_3" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 08FB7794FE84155DC02AAC07 /* csc350_3 */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8DD76F620486A84900D96B5E /* csc350_3 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8DD76F640486A84900D96B5E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8DD76F650486A84900D96B5E /* main.cpp in Sources */,
+				823E227D1370B9B700352603 /* Secant.cpp in Sources */,
+				823E227E1370B9B700352603 /* Interpolation.cpp in Sources */,
+				823E227F1370B9B700352603 /* Function1D.cpp in Sources */,
+				823E22801370B9B700352603 /* NonlinearSolver_bisection.cpp in Sources */,
+				823E22811370B9B700352603 /* NonlinearSolver.cpp in Sources */,
+				823E22821370B9B700352603 /* PolyFunction1D.cpp in Sources */,
+				823E22831370B9B700352603 /* Newton.cpp in Sources */,
+				823E22841370B9B700352603 /* SolutionNLE.cpp in Sources */,
+				82A9D68A137E0E110095FC6D /* RealEigenpair.cpp in Sources */,
+				82666488138E244A00941A38 /* EigensystemCalculator.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1DEB923208733DC60010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				INSTALL_PATH = /usr/local/bin;
+				PRODUCT_NAME = csc350_3;
+			};
+			name = Debug;
+		};
+		1DEB923308733DC60010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_MODEL_TUNING = G5;
+				INSTALL_PATH = /usr/local/bin;
+				PRODUCT_NAME = csc350_3;
+			};
+			name = Release;
+		};
+		1DEB923608733DC60010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		1DEB923708733DC60010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1DEB923108733DC60010E9CD /* Build configuration list for PBXNativeTarget "csc350_3" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB923208733DC60010E9CD /* Debug */,
+				1DEB923308733DC60010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1DEB923508733DC60010E9CD /* Build configuration list for PBXProject "csc350_3" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB923608733DC60010E9CD /* Debug */,
+				1DEB923708733DC60010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 08FB7793FE84155DC02AAC07 /* Project object */;
+}

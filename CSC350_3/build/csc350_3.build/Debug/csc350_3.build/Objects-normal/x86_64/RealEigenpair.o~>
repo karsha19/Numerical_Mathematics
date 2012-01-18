@@ -1,0 +1,2 @@
+/Users/Los/Desktop/350/CSC350_3 copy/RealEigenpair.cpp:13: error: prototype for 'void RealEigenpair::set(float, csc350lib_linalg_base::Matrix<float>*)' does not match any in class 'RealEigenpair'
+/Users/Los/Desktop/350/CSC350_3 copy/RealEigenpair.h:12: error: candidate is: void RealEigenpair::set(float, csc350lib_linalg_base::Matrix<float>*) const

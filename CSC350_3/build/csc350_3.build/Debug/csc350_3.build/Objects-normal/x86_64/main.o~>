@@ -1,0 +1,2 @@
+/Users/Los/Desktop/350/CSC350_3 copy/Assignment3.h: In member function 'float Assignment3::compute_curvature(float, float)':
+/Users/Los/Desktop/350/CSC350_3 copy/Assignment3.h:124: warning: control reaches end of non-void function

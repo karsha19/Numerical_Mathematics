@@ -1,0 +1,1972 @@
+Tcsc350_3
+v7
+r0
+t348592099.563469
+cCheck dependencies
+cCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/main.o "/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Secant.o "/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/Secant.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Interpolation.o "/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/Interpolation.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Function1D.o "/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/Function1D.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver_bisection.o "/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/NonlinearSolver_bisection.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver.o "/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/NonlinearSolver.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/PolyFunction1D.o "/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/PolyFunction1D.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Newton.o "/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/Newton.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/SolutionNLE.o "/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/SolutionNLE.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/RealEigenpair.o "/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/RealEigenpair.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/EigensystemCalculator.o "/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/EigensystemCalculator.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/build/Debug/csc350_3" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CCE191A00000000000000EE
+t1288575258
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/GLUT.framework/GLUT
+c000000004C5342AC000000000001A494
+t1280524972
+s107668
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h
+c000000004B489326000000000000578C
+t1263047462
+s22412
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/OpenGL.h
+c000000004C44D4240000000000001659
+t1279579172
+s5721
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004C5342AD000000000000DB14
+t1280524973
+s56084
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/assert.h
+c000000004AC59C810000000000000DCB
+t1254464641
+s3531
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004AC599B500000000000004F1
+t1254463925
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004AC59C820000000000002DF5
+t1254464642
+s11765
+
+N/Users/Los/Desktop/350/CSC350_3 copy/Assignment3.cpp
+c000000004EAC35BC00000000000000A4
+t1319908796
+s164
+i"Assignment3.h"
+
+N/Users/Los/Desktop/350/CSC350_3 copy/Assignment3.h
+c000000004EC5FC2C0000000000000B9E
+t1321597996
+s2974
+i"Matrix.h"
+i"EigensystemCalculator.h"
+i"RealEigenpair.h"
+
+N/Users/Los/Desktop/350/CSC350_3 copy/ColVec.h
+c000000004EC589090000000000000199
+t1321568521
+s409
+i"Matrix.h"
+
+N/Users/Los/Desktop/350/CSC350_3 copy/EigensystemCalculator.cpp
+c000000004EC5A30500000000000013DA
+t1321575173
+s5082
+i"EigensystemCalculator.h"
+
+N/Users/Los/Desktop/350/CSC350_3 copy/EigensystemCalculator.h
+c000000004EC58BBF000000000000019E
+t1321569215
+s414
+i"RealEigenpair.h"
+
+N/Users/Los/Desktop/350/CSC350_3 copy/Function1D.cpp
+c000000004E9DD47F000000000000026B
+t1318966399
+s619
+i"Function1D.h"
+
+N/Users/Los/Desktop/350/CSC350_3 copy/Function1D.h
+c000000004EC58F1100000000000007A1
+t1321570065
+s1953
+i<math.h>
+
+N/Users/Los/Desktop/350/CSC350_3 copy/Interpolation.cpp
+c000000004EC5A4010000000000000BE2
+t1321575425
+s3042
+i"Interpolation.h"
+
+N/Users/Los/Desktop/350/CSC350_3 copy/Interpolation.h
+c000000004EC5A380000000000000020B
+t1321575296
+s523
+i"PolyFunction1D.h"
+i"Matrix.h"
+i"ColVec.h"
+i<cmath>
+
+N/Users/Los/Desktop/350/CSC350_3 copy/Matrix.h
+c000000004EC5BEB20000000000004BE9
+t1321582258
+s19433
+i<vector>
+i<iostream>
+i<cmath>
+i<assert.h>
+
+N/Users/Los/Desktop/350/CSC350_3 copy/Newton.cpp
+c000000004EC5A8AC0000000000000979
+t1321576620
+s2425
+i<iostream>
+i"Newton.h"
+
+N/Users/Los/Desktop/350/CSC350_3 copy/Newton.h
+c000000004EC58FE30000000000000296
+t1321570275
+s662
+i"SolutionNLE.h"
+i"NonlinearSolver.h"
+
+N/Users/Los/Desktop/350/CSC350_3 copy/NonlinearSolver.cpp
+c000000004EC597C30000000000000379
+t1321572291
+s889
+i"NonlinearSolver.h"
+
+N/Users/Los/Desktop/350/CSC350_3 copy/NonlinearSolver.h
+c000000004EC597E00000000000000631
+t1321572320
+s1585
+i"SolutionNLE.h"
+i"NonlinearSolver.h"
+
+N/Users/Los/Desktop/350/CSC350_3 copy/NonlinearSolver_bisection.cpp
+c000000004EC5A49B00000000000005A4
+t1321575579
+s1444
+i"NonlinearSolver_bisection.h"
+
+N/Users/Los/Desktop/350/CSC350_3 copy/NonlinearSolver_bisection.h
+c000000004EC5931F000000000000021B
+t1321571103
+s539
+i"NonlinearSolver.h"
+
+N/Users/Los/Desktop/350/CSC350_3 copy/Points.cpp
+c000000004EA49B4B0000000000000102
+t1319410507
+s258
+i"Points.h"
+
+N/Users/Los/Desktop/350/CSC350_3 copy/Points.h
+c000000004EA49AB90000000000000037
+t1319410361
+s55
+
+N/Users/Los/Desktop/350/CSC350_3 copy/PolyFunction1D.cpp
+c000000004EC5985B00000000000005E3
+t1321572443
+s1507
+i<iostream>
+i"PolyFunction1D.h"
+
+N/Users/Los/Desktop/350/CSC350_3 copy/PolyFunction1D.h
+c000000004EC5980200000000000002F4
+t1321572354
+s756
+i"Function1D.h"
+
+N/Users/Los/Desktop/350/CSC350_3 copy/RealEigenpair.cpp
+c000000004EC598B60000000000000210
+t1321572534
+s528
+i"RealEigenpair.h"
+
+N/Users/Los/Desktop/350/CSC350_3 copy/RealEigenpair.h
+c000000004EC5986F000000000000019D
+t1321572463
+s413
+i"Matrix.h"
+
+N/Users/Los/Desktop/350/CSC350_3 copy/Secant.cpp
+c000000004EC5A7CA0000000000000B7B
+t1321576394
+s2939
+i"Secant.h"
+i<iostream>
+
+N/Users/Los/Desktop/350/CSC350_3 copy/Secant.h
+c000000004EC59053000000000000029B
+t1321570387
+s667
+i"SolutionNLE.h"
+i"NonlinearSolver.h"
+
+N/Users/Los/Desktop/350/CSC350_3 copy/SolutionNLE.cpp
+c000000004EC5A7010000000000000242
+t1321576193
+s578
+i"SolutionNLE.h"
+
+N/Users/Los/Desktop/350/CSC350_3 copy/SolutionNLE.h
+c000000004EC5A68900000000000004E8
+t1321576073
+s1256
+i"Function1D.h"
+
+N/Users/Los/Desktop/350/CSC350_3 copy/assignment3.h
+c000000004EAC352E0000000000000556
+t1319908654
+s1366
+
+N/Users/Los/Desktop/350/CSC350_3 copy/build/Debug/csc350_3
+t1321598015
+s139600
+
+N/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Assignment3.o
+t2
+s0
+
+N/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/EigensystemCalculator.o
+t1321582259
+s236668
+
+N/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Function1D.o
+t1321570067
+s6404
+
+N/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Interpolation.o
+t1321582258
+s214284
+
+N/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Newton.o
+t1321576623
+s75836
+
+N/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver.o
+t1321576388
+s12744
+
+N/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver_bisection.o
+t1321576388
+s12364
+
+N/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Points.o
+t2
+s0
+
+N/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/PolyFunction1D.o
+t1321572444
+s54588
+
+N/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/RealEigenpair.o
+t1321582259
+s70816
+
+N/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Secant.o
+t1321576394
+s76444
+
+N/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/SolutionNLE.o
+t1321576389
+s7536
+
+N/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/csc350_3.LinkFileList
+c000000004E70F37B0000000000000502
+t1316025211
+s1282
+
+N/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/main.o
+t1321598015
+s238212
+
+N/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/points.o
+t2
+s0
+
+N/Users/Los/Desktop/350/CSC350_3 copy/main.cpp
+c000000004EC5EB2B0000000000001116
+t1321593643
+s4374
+i<iostream>
+i"Matrix.h"
+i"NonlinearSolver_bisection.h"
+i"Function1D.h"
+i"EigensystemCalculator.h"
+i"RealEigenpair.h"
+i"Assignment3.h"
+i<stdlib.h>
+
+N/Users/Los/Desktop/350/CSC350_3 copy/points.cpp
+c000000004EA49A6E000000000000009A
+t1319410286
+s154
+i"points.h"
+
+N/Users/Los/Desktop/350/CSC350_3 copy/points.h
+c000000004EA49AB90000000000000037
+t1319410361
+s55
+
+N/Users/Los/Desktop/CSC350_3 copy/ColVec.h
+c000000004DB6FB4C00000000000001AA
+t1303837516
+s426
+i"Matrix.h"
+
+N/Users/Los/Desktop/CSC350_3 copy/EigensystemCalculator.cpp
+c000000004DE8170600000000000009F0
+t1307055878
+s2544
+i"EigensystemCalculator.h"
+
+N/Users/Los/Desktop/CSC350_3 copy/EigensystemCalculator.h
+c000000004DE817060000000000000134
+t1307055878
+s308
+i"RealEigenpair.h"
+
+N/Users/Los/Desktop/CSC350_3 copy/Function1D.cpp
+c000000004DA4D9C40000000000000269
+t1302649284
+s617
+i"Function1D.h"
+
+N/Users/Los/Desktop/CSC350_3 copy/Function1D.h
+c000000004DA5CED80000000000000231
+t1302712024
+s561
+i<math.h>
+
+N/Users/Los/Desktop/CSC350_3 copy/Interpolation.cpp
+c000000004DE80C6B0000000000000C30
+t1307053163
+s3120
+i"Interpolation.h"
+
+N/Users/Los/Desktop/CSC350_3 copy/Interpolation.h
+c000000004DB0C7E700000000000001EC
+t1303431143
+s492
+i"PolyFunction1D.h"
+i"Matrix.h"
+i"ColVec.h"
+i<cmath>
+
+N/Users/Los/Desktop/CSC350_3 copy/Matrix.h
+c000000004DE8126F00000000000044FE
+t1307054703
+s17662
+i<vector>
+i<iostream>
+i<cmath>
+
+N/Users/Los/Desktop/CSC350_3 copy/Newton.cpp
+c000000004DB2F9A80000000000000957
+t1303574952
+s2391
+i<iostream>
+i"Newton.h"
+
+N/Users/Los/Desktop/CSC350_3 copy/Newton.h
+c000000004DAE3EC90000000000000294
+t1303264969
+s660
+i"SolutionNLE.h"
+i"NonlinearSolver.h"
+
+N/Users/Los/Desktop/CSC350_3 copy/NonlinearSolver.cpp
+c000000004DAD1E6E000000000000035A
+t1303191150
+s858
+i"NonlinearSolver.h"
+
+N/Users/Los/Desktop/CSC350_3 copy/NonlinearSolver.h
+c000000004DAD1E6E0000000000000372
+t1303191150
+s882
+i"SolutionNLE.h"
+i"NonlinearSolver.h"
+
+N/Users/Los/Desktop/CSC350_3 copy/NonlinearSolver_bisection.cpp
+c000000004DB2F7FB0000000000000427
+t1303574523
+s1063
+i"NonlinearSolver_bisection.h"
+
+N/Users/Los/Desktop/CSC350_3 copy/NonlinearSolver_bisection.h
+c000000004DA5D0EB0000000000000199
+t1302712555
+s409
+i"NonlinearSolver.h"
+
+N/Users/Los/Desktop/CSC350_3 copy/PolyFunction1D.cpp
+c000000004DD307E900000000000004DF
+t1305675753
+s1247
+i<iostream>
+i"PolyFunction1D.h"
+
+N/Users/Los/Desktop/CSC350_3 copy/PolyFunction1D.h
+c000000004DB0C85F0000000000000244
+t1303431263
+s580
+i"Function1D.h"
+
+N/Users/Los/Desktop/CSC350_3 copy/RealEigenpair.cpp
+c000000004DDD8B6A0000000000000148
+t1306364778
+s328
+i"RealEigenpair.h"
+
+N/Users/Los/Desktop/CSC350_3 copy/RealEigenpair.h
+c000000004DDD90030000000000000171
+t1306365955
+s369
+i"Matrix.h"
+
+N/Users/Los/Desktop/CSC350_3 copy/Secant.cpp
+c000000004DAE3B760000000000000B5C
+t1303264118
+s2908
+i"Secant.h"
+i<iostream>
+
+N/Users/Los/Desktop/CSC350_3 copy/Secant.h
+c000000004DAE3EC9000000000000029B
+t1303264969
+s667
+i"SolutionNLE.h"
+i"NonlinearSolver.h"
+
+N/Users/Los/Desktop/CSC350_3 copy/SolutionNLE.cpp
+c000000004D9E15B30000000000000226
+t1302205875
+s550
+i"SolutionNLE.h"
+
+N/Users/Los/Desktop/CSC350_3 copy/SolutionNLE.h
+c000000004D9E92070000000000000260
+t1302237703
+s608
+i"Function1D.h"
+
+N/Users/Los/Desktop/CSC350_3 copy/build/Debug/csc350_3
+t1307055880
+s123472
+
+N/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/EigensystemCalculator.o
+t1307055879
+s208476
+
+N/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Function1D.o
+t1304461891
+s6372
+
+N/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Interpolation.o
+t1307054976
+s214036
+
+N/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Newton.o
+t1304461892
+s75716
+
+N/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver.o
+t1304461891
+s12636
+
+N/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver_bisection.o
+t1304461891
+s12276
+
+N/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/PolyFunction1D.o
+t1305675753
+s54588
+
+N/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/RealEigenpair.o
+t1307054975
+s70136
+
+N/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Secant.o
+t1304461891
+s76356
+
+N/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/SolutionNLE.o
+t1304461892
+s7456
+
+N/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/csc350_3.LinkFileList
+c000000004DDDEE6900000000000004D6
+t1306390121
+s1238
+
+N/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/main.o
+t1307055879
+s221832
+
+N/Users/Los/Desktop/CSC350_3 copy/main.cpp
+c000000004DE8146E00000000000002E3
+t1307055214
+s739
+i<iostream>
+i"Matrix.h"
+i"NonlinearSolver_bisection.h"
+i"Function1D.h"
+i"EigensystemCalculator.h"
+i"RealEigenpair.h"
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/Assignment3.h
+c000000004EC5FC2C0000000000000B9E
+t1321597996
+s2974
+i"Matrix.h"
+i"EigensystemCalculator.h"
+i"RealEigenpair.h"
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/ColVec.h
+c000000004EC589090000000000000199
+t1321568521
+s409
+i"Matrix.h"
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/EigensystemCalculator.cpp
+c000000004EC5A30500000000000013DA
+t1321575173
+s5082
+i"EigensystemCalculator.h"
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/EigensystemCalculator.h
+c000000004EC58BBF000000000000019E
+t1321569215
+s414
+i"RealEigenpair.h"
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/Function1D.cpp
+c000000004E9DD47F000000000000026B
+t1318966399
+s619
+i"Function1D.h"
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/Function1D.h
+c000000004EC58F1100000000000007A1
+t1321570065
+s1953
+i<math.h>
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/Interpolation.cpp
+c000000004EC5A4010000000000000BE2
+t1321575425
+s3042
+i"Interpolation.h"
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/Interpolation.h
+c000000004EC5A380000000000000020B
+t1321575296
+s523
+i"PolyFunction1D.h"
+i"Matrix.h"
+i"ColVec.h"
+i<cmath>
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/Matrix.h
+c000000004EC5BEB20000000000004BE9
+t1321582258
+s19433
+i<vector>
+i<iostream>
+i<cmath>
+i<assert.h>
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/Newton.cpp
+c000000004EC5A8AC0000000000000979
+t1321576620
+s2425
+i<iostream>
+i"Newton.h"
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/Newton.h
+c000000004EC58FE30000000000000296
+t1321570275
+s662
+i"SolutionNLE.h"
+i"NonlinearSolver.h"
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/NonlinearSolver.cpp
+c000000004EC597C30000000000000379
+t1321572291
+s889
+i"NonlinearSolver.h"
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/NonlinearSolver.h
+c000000004EC597E00000000000000631
+t1321572320
+s1585
+i"SolutionNLE.h"
+i"NonlinearSolver.h"
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/NonlinearSolver_bisection.cpp
+c000000004EC5A49B00000000000005A4
+t1321575579
+s1444
+i"NonlinearSolver_bisection.h"
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/NonlinearSolver_bisection.h
+c000000004EC5931F000000000000021B
+t1321571103
+s539
+i"NonlinearSolver.h"
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/PolyFunction1D.cpp
+c000000004EC5985B00000000000005E3
+t1321572443
+s1507
+i<iostream>
+i"PolyFunction1D.h"
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/PolyFunction1D.h
+c000000004EC5980200000000000002F4
+t1321572354
+s756
+i"Function1D.h"
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/RealEigenpair.cpp
+c000000004EC598B60000000000000210
+t1321572534
+s528
+i"RealEigenpair.h"
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/RealEigenpair.h
+c000000004EC5986F000000000000019D
+t1321572463
+s413
+i"Matrix.h"
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/Secant.cpp
+c000000004EC5A7CA0000000000000B7B
+t1321576394
+s2939
+i"Secant.h"
+i<iostream>
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/Secant.h
+c000000004EC59053000000000000029B
+t1321570387
+s667
+i"SolutionNLE.h"
+i"NonlinearSolver.h"
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/SolutionNLE.cpp
+c000000004EC5A7010000000000000242
+t1321576193
+s578
+i"SolutionNLE.h"
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/SolutionNLE.h
+c000000004EC5A68900000000000004E8
+t1321576073
+s1256
+i"Function1D.h"
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/build/Debug/csc350_3
+t1326899280
+s139800
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/EigensystemCalculator.o
+t1321582259
+s236668
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Function1D.o
+t1321570067
+s6404
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Interpolation.o
+t1321582258
+s214284
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Newton.o
+t1321576623
+s75836
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver.o
+t1321576388
+s12744
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver_bisection.o
+t1321576388
+s12364
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/PolyFunction1D.o
+t1321572444
+s54588
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/RealEigenpair.o
+t1321582259
+s70816
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Secant.o
+t1321576394
+s76444
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/SolutionNLE.o
+t1321576389
+s7536
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/csc350_3.LinkFileList
+c000000004F16E05000000000000005C8
+t1326899280
+s1480
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/main.o
+t1321598015
+s238212
+
+N/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/main.cpp
+c000000004EC5EB2B0000000000001116
+t1321593643
+s4374
+i<iostream>
+i"Matrix.h"
+i"NonlinearSolver_bisection.h"
+i"Function1D.h"
+i"EigensystemCalculator.h"
+i"RealEigenpair.h"
+i"Assignment3.h"
+i<stdlib.h>
+
+N/Users/Los/Desktop/csc350_3/ColVec.h
+c000000004DB6FB4C00000000000001AA
+t1303837516
+s426
+i"Matrix.h"
+
+N/Users/Los/Desktop/csc350_3/Function1D.cpp
+c000000004DA4D9C40000000000000269
+t1302649284
+s617
+i"Function1D.h"
+
+N/Users/Los/Desktop/csc350_3/Function1D.h
+c000000004DA5CED80000000000000231
+t1302712024
+s561
+i<math.h>
+
+N/Users/Los/Desktop/csc350_3/Interpolation.cpp
+c000000004DB711700000000000000C28
+t1303843184
+s3112
+i"Interpolation.h"
+
+N/Users/Los/Desktop/csc350_3/Interpolation.h
+c000000004DB0C7E700000000000001EC
+t1303431143
+s492
+i"PolyFunction1D.h"
+i"Matrix.h"
+i"ColVec.h"
+i<cmath>
+
+N/Users/Los/Desktop/csc350_3/Matrix.h
+c000000004DB857140000000000003592
+t1303926548
+s13714
+i<vector>
+i<iostream>
+i<cmath>
+
+N/Users/Los/Desktop/csc350_3/Newton.cpp
+c000000004DB2F9A80000000000000957
+t1303574952
+s2391
+i<iostream>
+i"Newton.h"
+
+N/Users/Los/Desktop/csc350_3/Newton.h
+c000000004DAE3EC90000000000000294
+t1303264969
+s660
+i"SolutionNLE.h"
+i"NonlinearSolver.h"
+
+N/Users/Los/Desktop/csc350_3/NonlinearSolver.cpp
+c000000004DAD1E6E000000000000035A
+t1303191150
+s858
+i"NonlinearSolver.h"
+
+N/Users/Los/Desktop/csc350_3/NonlinearSolver.h
+c000000004DAD1E6E0000000000000372
+t1303191150
+s882
+i"SolutionNLE.h"
+i"NonlinearSolver.h"
+
+N/Users/Los/Desktop/csc350_3/NonlinearSolver_bisection.cpp
+c000000004DB2F7FB0000000000000427
+t1303574523
+s1063
+i"NonlinearSolver_bisection.h"
+
+N/Users/Los/Desktop/csc350_3/NonlinearSolver_bisection.h
+c000000004DA5D0EB0000000000000199
+t1302712555
+s409
+i"NonlinearSolver.h"
+
+N/Users/Los/Desktop/csc350_3/PolyFunction1D.cpp
+c000000004DB0C84F00000000000004D0
+t1303431247
+s1232
+i<iostream>
+i"PolyFunction1D.h"
+
+N/Users/Los/Desktop/csc350_3/PolyFunction1D.h
+c000000004DB0C85F0000000000000244
+t1303431263
+s580
+i"Function1D.h"
+
+N/Users/Los/Desktop/csc350_3/RowVec.h
+c000000004DB6FB4C00000000000001AC
+t1303837516
+s428
+i"Matrix.h"
+
+N/Users/Los/Desktop/csc350_3/Secant.cpp
+c000000004DAE3B760000000000000B5C
+t1303264118
+s2908
+i"Secant.h"
+i<iostream>
+
+N/Users/Los/Desktop/csc350_3/Secant.h
+c000000004DAE3EC9000000000000029B
+t1303264969
+s667
+i"SolutionNLE.h"
+i"NonlinearSolver.h"
+
+N/Users/Los/Desktop/csc350_3/SolutionNLE.cpp
+c000000004D9E15B30000000000000226
+t1302205875
+s550
+i"SolutionNLE.h"
+
+N/Users/Los/Desktop/csc350_3/SolutionNLE.h
+c000000004D9E92070000000000000260
+t1302237703
+s608
+i"Function1D.h"
+
+N/Users/Los/Desktop/csc350_3/build/Debug/csc350_3
+t1304462083
+s104584
+
+N/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Function1D.o
+t1304461891
+s6372
+
+N/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Interpolation.o
+t1304461891
+s213660
+
+N/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Newton.o
+t1304461892
+s75716
+
+N/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver.o
+t1304461891
+s12636
+
+N/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver_bisection.o
+t1304461891
+s12276
+
+N/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/PolyFunction1D.o
+t1304461892
+s54588
+
+N/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Secant.o
+t1304461891
+s76356
+
+N/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/SolutionNLE.o
+t1304461892
+s7456
+
+N/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/csc350_3.LinkFileList
+c000000004DC0824300000000000003BF
+t1304461891
+s959
+
+N/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/main.o
+t1304462083
+s66848
+
+N/Users/Los/Desktop/csc350_3/main.cpp
+c000000004DC0830A0000000000000130
+t1304462090
+s304
+i<iostream>
+i"Matrix.h"
+i"NonlinearSolver_bisection.h"
+i"Function1D.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/ColVec.h
+c000000004DB6FB4C00000000000001AA
+t1303837516
+s426
+i"Matrix.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/EigensystemCalculator.cpp
+c000000004DE8170600000000000009F0
+t1307055878
+s2544
+i"EigensystemCalculator.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/EigensystemCalculator.h
+c000000004DE817060000000000000134
+t1307055878
+s308
+i"RealEigenpair.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/Function1D.cpp
+c000000004DA4D9C40000000000000269
+t1302649284
+s617
+i"Function1D.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/Function1D.h
+c000000004DA5CED80000000000000231
+t1302712024
+s561
+i<math.h>
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/Interpolation.cpp
+c000000004DE80C6B0000000000000C30
+t1307053163
+s3120
+i"Interpolation.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/Interpolation.h
+c000000004DB0C7E700000000000001EC
+t1303431143
+s492
+i"PolyFunction1D.h"
+i"Matrix.h"
+i"ColVec.h"
+i<cmath>
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/Matrix.h
+c000000004E4D0DF500000000000047AC
+t1313672693
+s18348
+i<vector>
+i<iostream>
+i<cmath>
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/Newton.cpp
+c000000004DB2F9A80000000000000957
+t1303574952
+s2391
+i<iostream>
+i"Newton.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/Newton.h
+c000000004DAE3EC90000000000000294
+t1303264969
+s660
+i"SolutionNLE.h"
+i"NonlinearSolver.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/NonlinearSolver.cpp
+c000000004DAD1E6E000000000000035A
+t1303191150
+s858
+i"NonlinearSolver.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/NonlinearSolver.h
+c000000004DAD1E6E0000000000000372
+t1303191150
+s882
+i"SolutionNLE.h"
+i"NonlinearSolver.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/NonlinearSolver_bisection.cpp
+c000000004DB2F7FB0000000000000427
+t1303574523
+s1063
+i"NonlinearSolver_bisection.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/NonlinearSolver_bisection.h
+c000000004DA5D0EB0000000000000199
+t1302712555
+s409
+i"NonlinearSolver.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/PolyFunction1D.cpp
+c000000004DD307E900000000000004DF
+t1305675753
+s1247
+i<iostream>
+i"PolyFunction1D.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/PolyFunction1D.h
+c000000004DB0C85F0000000000000244
+t1303431263
+s580
+i"Function1D.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/RealEigenpair.cpp
+c000000004DDD8B6A0000000000000148
+t1306364778
+s328
+i"RealEigenpair.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/RealEigenpair.h
+c000000004DDD90030000000000000171
+t1306365955
+s369
+i"Matrix.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/Secant.cpp
+c000000004DAE3B760000000000000B5C
+t1303264118
+s2908
+i"Secant.h"
+i<iostream>
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/Secant.h
+c000000004DAE3EC9000000000000029B
+t1303264969
+s667
+i"SolutionNLE.h"
+i"NonlinearSolver.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/SolutionNLE.cpp
+c000000004D9E15B30000000000000226
+t1302205875
+s550
+i"SolutionNLE.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/SolutionNLE.h
+c000000004D9E92070000000000000260
+t1302237703
+s608
+i"Function1D.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/build/Debug/csc350_3
+t1316014258
+s138656
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/EigensystemCalculator.o
+t1313672694
+s208716
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Function1D.o
+t1304461891
+s6372
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Interpolation.o
+t1313672694
+s214284
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Newton.o
+t1304461892
+s75716
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver.o
+t1304461891
+s12636
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver_bisection.o
+t1304461891
+s12276
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/PolyFunction1D.o
+t1305675753
+s54588
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/RealEigenpair.o
+t1313672694
+s70152
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Secant.o
+t1304461891
+s76356
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/SolutionNLE.o
+t1304461892
+s7456
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/csc350_3.LinkFileList
+c000000004E4C12BF0000000000000544
+t1313608383
+s1348
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/main.o
+t1316014258
+s250844
+
+N/Users/Los/Documents/CSC/350/CSC350_3 copy/main.cpp
+c000000004E70C8B10000000000001634
+t1316014257
+s5684
+i<iostream>
+i<fstream>
+i"Matrix.h"
+i"NonlinearSolver_bisection.h"
+i"Function1D.h"
+i"EigensystemCalculator.h"
+i"RealEigenpair.h"
+i<stdlib.h>
+i<OpenGL/OpenGL.h>
+i<GLUT/glut.h>
+i<GL/glut.h>
+i<iomanip>
+
+N/Users/Los/Documents/CSC/350/CSC350_3/ColVec.h
+c000000004DB6FB4C00000000000001AA
+t1303837516
+s426
+i"Matrix.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp
+c000000004DDD652E0000000000001B52
+t1306354990
+s6994
+i"EigensystemCalculator.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.h
+c000000004DDD652E0000000000000176
+t1306354990
+s374
+i"RealEigenpair.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3/Function1D.cpp
+c000000004DA4D9C40000000000000269
+t1302649284
+s617
+i"Function1D.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3/Function1D.h
+c000000004DA5CED80000000000000231
+t1302712024
+s561
+i<math.h>
+
+N/Users/Los/Documents/CSC/350/CSC350_3/Interpolation.cpp
+c000000004DD308150000000000000C36
+t1305675797
+s3126
+i"Interpolation.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3/Interpolation.h
+c000000004DB0C7E700000000000001EC
+t1303431143
+s492
+i"PolyFunction1D.h"
+i"Matrix.h"
+i"ColVec.h"
+i<cmath>
+
+N/Users/Los/Documents/CSC/350/CSC350_3/Matrix.h
+c000000004DD1A3650000000000004F5F
+t1305584485
+s20319
+i<vector>
+i<iostream>
+i<cmath>
+
+N/Users/Los/Documents/CSC/350/CSC350_3/Newton.cpp
+c000000004DB2F9A80000000000000957
+t1303574952
+s2391
+i<iostream>
+i"Newton.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3/Newton.h
+c000000004DAE3EC90000000000000294
+t1303264969
+s660
+i"SolutionNLE.h"
+i"NonlinearSolver.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3/NonlinearSolver.cpp
+c000000004DAD1E6E000000000000035A
+t1303191150
+s858
+i"NonlinearSolver.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3/NonlinearSolver.h
+c000000004DAD1E6E0000000000000372
+t1303191150
+s882
+i"SolutionNLE.h"
+i"NonlinearSolver.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3/NonlinearSolver_bisection.cpp
+c000000004DB2F7FB0000000000000427
+t1303574523
+s1063
+i"NonlinearSolver_bisection.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3/NonlinearSolver_bisection.h
+c000000004DA5D0EB0000000000000199
+t1302712555
+s409
+i"NonlinearSolver.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3/PolyFunction1D.cpp
+c000000004DD307E900000000000004DF
+t1305675753
+s1247
+i<iostream>
+i"PolyFunction1D.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3/PolyFunction1D.h
+c000000004DB0C85F0000000000000244
+t1303431263
+s580
+i"Function1D.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3/RealEigenpair.cpp
+c000000004DDD652E0000000000000103
+t1306354990
+s259
+i"RealEigenpair.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3/RealEigenpair.h
+c000000004DDD7F0F000000000000016C
+t1306361615
+s364
+i"Matrix.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3/Secant.cpp
+c000000004DAE3B760000000000000B5C
+t1303264118
+s2908
+i"Secant.h"
+i<iostream>
+
+N/Users/Los/Documents/CSC/350/CSC350_3/Secant.h
+c000000004DAE3EC9000000000000029B
+t1303264969
+s667
+i"SolutionNLE.h"
+i"NonlinearSolver.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3/SolutionNLE.cpp
+c000000004D9E15B30000000000000226
+t1302205875
+s550
+i"SolutionNLE.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3/SolutionNLE.h
+c000000004D9E92070000000000000260
+t1302237703
+s608
+i"Function1D.h"
+
+N/Users/Los/Documents/CSC/350/CSC350_3/build/Debug/csc350_3
+t1306354361
+s118744
+
+N/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/EigensystemCalculator.o
+t2
+s0
+
+N/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Function1D.o
+t1304461891
+s6372
+
+N/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Interpolation.o
+t1305675798
+s214048
+
+N/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Newton.o
+t1304461892
+s75716
+
+N/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver.o
+t1304461891
+s12636
+
+N/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver_bisection.o
+t1304461891
+s12276
+
+N/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/PolyFunction1D.o
+t1305675753
+s54588
+
+N/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/RealEigenpair.o
+t2
+s0
+
+N/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Secant.o
+t1304461891
+s76356
+
+N/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/SolutionNLE.o
+t1304461892
+s7456
+
+N/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/csc350_3.LinkFileList
+c000000004DD0425A000000000000050D
+t1305494106
+s1293
+
+N/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Los/Documents/CSC/350/CSC350_3/main.cpp
+c000000004DD1C4CF0000000000000356
+t1305593039
+s854
+i<iostream>
+i"Matrix.h"
+i"NonlinearSolver_bisection.h"
+i"Function1D.h"
+i"EigensystemCalculator.h"
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies348592099#348592099#0(0"0(0#1#0"8604361024#0"0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Assignment3.o "/Users/Los/Desktop/350/CSC350_3 copy/Assignment3.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/EigensystemCalculator.o "/Users/Los/Desktop/350/CSC350_3 copy/EigensystemCalculator.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s343275058.807172
+e343275059.323148
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/EigensystemCalculator.o
+x/Users/Los/Desktop/350/CSC350_3 copy/EigensystemCalculator.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Los/Desktop/350/CSC350_3 copy/EigensystemCalculator.cpp343275058#343275059#0(0"0(0#0#62"/Users/Los/Desktop/350/CSC350_3 copy/EigensystemCalculator.cpp8617327008#1343"    cd "/Users/Los/Desktop/350/CSC350_3 copy"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap" -iquote "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap" "-F/Users/Los/Desktop/350/CSC350_3 copy/build/Debug" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/Debug/include" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources" -c "/Users/Los/Desktop/350/CSC350_3 copy/EigensystemCalculator.cpp" -o "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/EigensystemCalculator.o"0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/EigensystemCalculator.o "/Users/Los/Desktop/CSC350_3 copy/EigensystemCalculator.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s328748678.634261
+e328748679.950281
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/EigensystemCalculator.o
+x/Users/Los/Desktop/CSC350_3 copy/EigensystemCalculator.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/Los/Desktop/CSC350_3 copy/EigensystemCalculator.cpp: In member function 'const RealEigenpair* EigensystemCalculator::getLargestEigenpair(const csc350lib_linalg_base::Matrix<float>*)':
+o/Users/Los/Desktop/CSC350_3 copy/EigensystemCalculator.cpp:37: warning: unused variable 'count'
+o/Users/Los/Desktop/CSC350_3 copy/EigensystemCalculator.cpp: In function 'const RealEigenpair* const* getEigenpairs(const csc350lib_linalg_base::Matrix<float>*, int)':
+o/Users/Los/Desktop/CSC350_3 copy/EigensystemCalculator.cpp:115: warning: control reaches end of non-void function
+lSLF07#2@66"Compile /Users/Los/Desktop/CSC350_3 copy/EigensystemCalculator.cpp328748678#328748679#0(568"/Users/Los/Desktop/CSC350_3 copy/EigensystemCalculator.cpp: In member function 'const RealEigenpair* EigensystemCalculator::getLargestEigenpair(const csc350lib_linalg_base::Matrix<float>*)':/Users/Los/Desktop/CSC350_3 copy/EigensystemCalculator.cpp:37: warning: unused variable 'count'/Users/Los/Desktop/CSC350_3 copy/EigensystemCalculator.cpp: In function 'const RealEigenpair* const* getEigenpairs(const csc350lib_linalg_base::Matrix<float>*, int)':/Users/Los/Desktop/CSC350_3 copy/EigensystemCalculator.cpp:115: warning: control reaches end of non-void function2(22@23"Unused variable 'count'328748679#191#96#0(6@58"/Users/Los/Desktop/CSC350_3 copy/EigensystemCalculator.cpp328748678#37#0#37#0#19"unused variable '*'0(22@40"Control reaches end of non-void function328748679#454#114#0(6@58"/Users/Los/Desktop/CSC350_3 copy/EigensystemCalculator.cpp328748678#115#0#115#0#40"control reaches end of non-void function0(0#0#58"/Users/Los/Desktop/CSC350_3 copy/EigensystemCalculator.cpp8599984224#1299"    cd "/Users/Los/Desktop/CSC350_3 copy"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap" "-I/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap" "-I/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap" -iquote "/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap" "-F/Users/Los/Desktop/CSC350_3 copy/build/Debug" "-I/Users/Los/Desktop/CSC350_3 copy/build/Debug/include" "-I/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64" "-I/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources" -c "/Users/Los/Desktop/CSC350_3 copy/EigensystemCalculator.cpp" -o "/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/EigensystemCalculator.o"0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/EigensystemCalculator.o "/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/EigensystemCalculator.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/EigensystemCalculator.o "/Users/Los/Documents/CSC/350/CSC350_3 copy/EigensystemCalculator.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s335365494.132470
+e335365494.608359
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/EigensystemCalculator.o
+x/Users/Los/Documents/CSC/350/CSC350_3 copy/EigensystemCalculator.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/Los/Documents/CSC/350/CSC350_3 copy/EigensystemCalculator.cpp: In member function 'const RealEigenpair* EigensystemCalculator::getLargestEigenpair(const csc350lib_linalg_base::Matrix<float>*)':
+o/Users/Los/Documents/CSC/350/CSC350_3 copy/EigensystemCalculator.cpp:37: warning: unused variable 'count'
+o/Users/Los/Documents/CSC/350/CSC350_3 copy/EigensystemCalculator.cpp: In function 'const RealEigenpair* const* getEigenpairs(const csc350lib_linalg_base::Matrix<float>*, int)':
+o/Users/Los/Documents/CSC/350/CSC350_3 copy/EigensystemCalculator.cpp:115: warning: control reaches end of non-void function
+lSLF07#2@76"Compile /Users/Los/Documents/CSC/350/CSC350_3 copy/EigensystemCalculator.cpp335365494#335365494#0(608"/Users/Los/Documents/CSC/350/CSC350_3 copy/EigensystemCalculator.cpp: In member function 'const RealEigenpair* EigensystemCalculator::getLargestEigenpair(const csc350lib_linalg_base::Matrix<float>*)':/Users/Los/Documents/CSC/350/CSC350_3 copy/EigensystemCalculator.cpp:37: warning: unused variable 'count'/Users/Los/Documents/CSC/350/CSC350_3 copy/EigensystemCalculator.cpp: In function 'const RealEigenpair* const* getEigenpairs(const csc350lib_linalg_base::Matrix<float>*, int)':/Users/Los/Documents/CSC/350/CSC350_3 copy/EigensystemCalculator.cpp:115: warning: control reaches end of non-void function2(22@23"Unused variable 'count'335365494#201#106#0(6@68"/Users/Los/Documents/CSC/350/CSC350_3 copy/EigensystemCalculator.cpp328748678#37#0#37#0#19"unused variable '*'0(22@40"Control reaches end of non-void function335365494#484#124#0(6@68"/Users/Los/Documents/CSC/350/CSC350_3 copy/EigensystemCalculator.cpp328748678#115#0#115#0#40"control reaches end of non-void function0(0#0#68"/Users/Los/Documents/CSC/350/CSC350_3 copy/EigensystemCalculator.cpp8619091520#1409"    cd "/Users/Los/Documents/CSC/350/CSC350_3 copy"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap" "-I/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap" "-I/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap" -iquote "/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap" "-F/Users/Los/Documents/CSC/350/CSC350_3 copy/build/Debug" "-I/Users/Los/Documents/CSC/350/CSC350_3 copy/build/Debug/include" "-I/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64" "-I/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources" -c "/Users/Los/Documents/CSC/350/CSC350_3 copy/EigensystemCalculator.cpp" -o "/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/EigensystemCalculator.o"0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/EigensystemCalculator.o /Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s328054529.330630
+e328054530.119981
+r0
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/EigensystemCalculator.o
+x/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp: In member function 'const RealEigenpair* const EigensystemCalculator::getLargestEigenpair(csc350lib_linalg_base::Matrix<float>*) const':
+o/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp:32: warning: unused variable 'count'
+o/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp:103: warning: unused variable 'imax'
+o/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp:110: warning: unused variable 'xtxf'
+o/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp:111: warning: unused variable 'xtaxf'
+o/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp:112: warning: unused variable 'cchek'
+o/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp:113: warning: unused variable 'conv'
+o/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp: At global scope:
+o/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp:161: error: prototype for 'const RealEigenpair* const EigensystemCalculator::getEigenpairs(csc350lib_linalg_base::Matrix<float>*, int) const' does not match any in class 'EigensystemCalculator'
+o/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.h:9: error: candidate is: const RealEigenpair* const* EigensystemCalculator::getEigenpairs(csc350lib_linalg_base::Matrix<float>*, int) const
+o/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp:161: error: 'const RealEigenpair* const EigensystemCalculator::getEigenpairs(csc350lib_linalg_base::Matrix<float>*, int) const' cannot be overloaded
+o/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.h:9: error: with 'const RealEigenpair* const* EigensystemCalculator::getEigenpairs(csc350lib_linalg_base::Matrix<float>*, int) const'
+o/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp: In member function 'const RealEigenpair* const EigensystemCalculator::getEigenpairs(csc350lib_linalg_base::Matrix<float>*, int) const':
+o/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp:190: warning: unused variable 'count'
+o/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp:261: warning: unused variable 'imax'
+o/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp:268: warning: unused variable 'xtxf'
+o/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp:269: warning: unused variable 'xtaxf'
+o/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp:270: warning: unused variable 'cchek'
+o/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp:271: warning: unused variable 'conv'
+lSLF07#2@71"Compile /Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp328054529#328054530#0(2568"/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp: In member function 'const RealEigenpair* const EigensystemCalculator::getLargestEigenpair(csc350lib_linalg_base::Matrix<float>*) const':/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp:32: warning: unused variable 'count'/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp:103: warning: unused variable 'imax'/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp:110: warning: unused variable 'xtxf'/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp:111: warning: unused variable 'xtaxf'/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp:112: warning: unused variable 'cchek'/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp:113: warning: unused variable 'conv'/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp: At global scope:/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp:161: error: prototype for 'const RealEigenpair* const EigensystemCalculator::getEigenpairs(csc350lib_linalg_base::Matrix<float>*, int) const' does not match any in class 'EigensystemCalculator'/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.h:9: error: candidate is: const RealEigenpair* const* EigensystemCalculator::getEigenpairs(csc350lib_linalg_base::Matrix<float>*, int) const/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp:161: error: 'const RealEigenpair* const EigensystemCalculator::getEigenpairs(csc350lib_linalg_base::Matrix<float>*, int) const' cannot be overloaded/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.h:9: error: with 'const RealEigenpair* const* EigensystemCalculator::getEigenpairs(csc350lib_linalg_base::Matrix<float>*, int) const'/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp: In member function 'const RealEigenpair* const EigensystemCalculator::getEigenpairs(csc350lib_linalg_base::Matrix<float>*, int) const':/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp:190: warning: unused variable 'count'/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp:261: warning: unused variable 'imax'/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp:268: warning: unused variable 'xtxf'/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp:269: warning: unused variable 'xtaxf'/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp:270: warning: unused variable 'cchek'/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp:271: warning: unused variable 'conv'17(22@23"Unused variable 'count'328054530#202#101#0(6@63"/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp328047790#32#0#32#0#19"unused variable '*'0(22@22"Unused variable 'imax'328054530#303#101#0(6@63"/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp328047790#103#0#103#0#19"unused variable '*'0(22@22"Unused variable 'xtxf'328054530#404#101#0(6@63"/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp328047790#110#0#110#0#19"unused variable '*'0(22@23"Unused variable 'xtaxf'328054530#505#102#0(6@63"/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp328047790#111#0#111#0#19"unused variable '*'0(22@23"Unused variable 'cchek'328054530#607#102#0(6@63"/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp328047790#112#0#112#0#19"unused variable '*'0(22@22"Unused variable 'conv'328054530#709#101#0(6@63"/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp328047790#113#0#113#0#19"unused variable '*'0(23@16"At global scope:328054530#810#82#0(6@63"/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp328047790#0#0#0#0#0"0(4@181"Prototype for 'const RealEigenpair* const EigensystemCalculator::getEigenpairs(csc350lib_linalg_base::Matrix<float>*, int) const' does not match any in class 'EigensystemCalculator'328054530#892#258#0(6@63"/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp328047790#161#0#161#0#0"0(4@128"Candidate is: const RealEigenpair* const* EigensystemCalculator::getEigenpairs(csc350lib_linalg_base::Matrix<float>*, int) const328054530#1150#201#0(6@61"/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.h328047790#9#0#9#0#0"0(4@136"'const RealEigenpair* const EigensystemCalculator::getEigenpairs(csc350lib_linalg_base::Matrix<float>*, int) const' cannot be overloaded328054530#1351#213#0(6@63"/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp328047790#161#0#161#0#0"0(4@121"With 'const RealEigenpair* const* EigensystemCalculator::getEigenpairs(csc350lib_linalg_base::Matrix<float>*, int) const'328054530#1564#194#0(6@61"/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.h328047790#9#0#9#0#0"0(22@23"Unused variable 'count'328054530#1959#102#0(6@63"/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp328047790#190#0#190#0#19"unused variable '*'0(22@22"Unused variable 'imax'328054530#2061#101#0(6@63"/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp328047790#261#0#261#0#19"unused variable '*'0(22@22"Unused variable 'xtxf'328054530#2162#101#0(6@63"/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp328047790#268#0#268#0#19"unused variable '*'0(22@23"Unused variable 'xtaxf'328054530#2263#102#0(6@63"/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp328047790#269#0#269#0#19"unused variable '*'0(22@23"Unused variable 'cchek'328054530#2365#102#0(6@63"/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp328047790#270#0#270#0#19"unused variable '*'0(22@22"Unused variable 'conv'328054530#2467#101#0(6@63"/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp328047790#271#0#271#0#19"unused variable '*'0(0#0#63"/Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp8615789664#1332"    cd /Users/Los/Documents/CSC/350/CSC350_3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap -I/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap -I/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap -iquote /Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap -F/Users/Los/Documents/CSC/350/CSC350_3/build/Debug -I/Users/Los/Documents/CSC/350/CSC350_3/build/Debug/include -I/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64 -I/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources -c /Users/Los/Documents/CSC/350/CSC350_3/EigensystemCalculator.cpp -o /Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/EigensystemCalculator.o1#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Function1D.o "/Users/Los/Desktop/350/CSC350_3 copy/Function1D.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s343262867.187211
+e343262867.219513
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Function1D.o
+x/Users/Los/Desktop/350/CSC350_3 copy/Function1D.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/Los/Desktop/350/CSC350_3 copy/Function1D.cpp343262867#343262867#0(0"0(0#0#51"/Users/Los/Desktop/350/CSC350_3 copy/Function1D.cpp8619684768#1321"    cd "/Users/Los/Desktop/350/CSC350_3 copy"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap" -iquote "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap" "-F/Users/Los/Desktop/350/CSC350_3 copy/build/Debug" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/Debug/include" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources" -c "/Users/Los/Desktop/350/CSC350_3 copy/Function1D.cpp" -o "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Function1D.o"0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Function1D.o "/Users/Los/Desktop/CSC350_3 copy/Function1D.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Function1D.o "/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/Function1D.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Function1D.o "/Users/Los/Documents/CSC/350/CSC350_3 copy/Function1D.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Function1D.o /Users/Los/Desktop/csc350_3/Function1D.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s326154691.779347
+e326154691.809250
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Function1D.o
+x/Users/Los/Desktop/csc350_3/Function1D.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/Los/Desktop/csc350_3/Function1D.cpp326154691#326154691#0(0"0(0#0#42"/Users/Los/Desktop/csc350_3/Function1D.cpp8607704608#1200"    cd /Users/Los/Desktop/csc350_3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap -F/Users/Los/Desktop/csc350_3/build/Debug -I/Users/Los/Desktop/csc350_3/build/Debug/include -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64 -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources -c /Users/Los/Desktop/csc350_3/Function1D.cpp -o /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Function1D.o0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Function1D.o /Users/Los/Documents/CSC/350/CSC350_3/Function1D.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Interpolation.o "/Users/Los/Desktop/350/CSC350_3 copy/Interpolation.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s343275058.240029
+e343275058.807113
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Interpolation.o
+x/Users/Los/Desktop/350/CSC350_3 copy/Interpolation.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/Los/Desktop/350/CSC350_3 copy/Interpolation.cpp343275058#343275058#0(0"0(0#0#54"/Users/Los/Desktop/350/CSC350_3 copy/Interpolation.cpp8606273344#1327"    cd "/Users/Los/Desktop/350/CSC350_3 copy"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap" -iquote "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap" "-F/Users/Los/Desktop/350/CSC350_3 copy/build/Debug" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/Debug/include" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources" -c "/Users/Los/Desktop/350/CSC350_3 copy/Interpolation.cpp" -o "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Interpolation.o"0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Interpolation.o "/Users/Los/Desktop/CSC350_3 copy/Interpolation.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s328747775.202757
+e328747776.193375
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Interpolation.o
+x/Users/Los/Desktop/CSC350_3 copy/Interpolation.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/Los/Desktop/CSC350_3 copy/Interpolation.cpp328747775#328747776#0(0"0(0#0#50"/Users/Los/Desktop/CSC350_3 copy/Interpolation.cpp8617629056#1283"    cd "/Users/Los/Desktop/CSC350_3 copy"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap" "-I/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap" "-I/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap" -iquote "/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap" "-F/Users/Los/Desktop/CSC350_3 copy/build/Debug" "-I/Users/Los/Desktop/CSC350_3 copy/build/Debug/include" "-I/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64" "-I/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources" -c "/Users/Los/Desktop/CSC350_3 copy/Interpolation.cpp" -o "/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Interpolation.o"0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Interpolation.o "/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/Interpolation.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Interpolation.o "/Users/Los/Documents/CSC/350/CSC350_3 copy/Interpolation.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s335365493.521224
+e335365494.049355
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Interpolation.o
+x/Users/Los/Documents/CSC/350/CSC350_3 copy/Interpolation.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/Los/Documents/CSC/350/CSC350_3 copy/Interpolation.cpp335365493#335365494#0(0"0(0#0#60"/Users/Los/Documents/CSC/350/CSC350_3 copy/Interpolation.cpp8618816256#1393"    cd "/Users/Los/Documents/CSC/350/CSC350_3 copy"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap" "-I/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap" "-I/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap" -iquote "/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap" "-F/Users/Los/Documents/CSC/350/CSC350_3 copy/build/Debug" "-I/Users/Los/Documents/CSC/350/CSC350_3 copy/build/Debug/include" "-I/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64" "-I/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources" -c "/Users/Los/Documents/CSC/350/CSC350_3 copy/Interpolation.cpp" -o "/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Interpolation.o"0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Interpolation.o /Users/Los/Desktop/csc350_3/Interpolation.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s326154691.421486
+e326154692.002960
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Interpolation.o
+x/Users/Los/Desktop/csc350_3/Interpolation.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/Los/Desktop/csc350_3/Interpolation.cpp326154691#326154692#0(0"0(0#0#45"/Users/Los/Desktop/csc350_3/Interpolation.cpp3917909816998063104#1206"    cd /Users/Los/Desktop/csc350_3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap -F/Users/Los/Desktop/csc350_3/build/Debug -I/Users/Los/Desktop/csc350_3/build/Debug/include -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64 -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources -c /Users/Los/Desktop/csc350_3/Interpolation.cpp -o /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Interpolation.o0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Interpolation.o /Users/Los/Documents/CSC/350/CSC350_3/Interpolation.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s327368597.852342
+e327368598.283613
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Interpolation.o
+x/Users/Los/Documents/CSC/350/CSC350_3/Interpolation.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/Los/Documents/CSC/350/CSC350_3/Interpolation.cpp327368597#327368598#0(0"0(0#0#55"/Users/Los/Documents/CSC/350/CSC350_3/Interpolation.cpp8613487648#1316"    cd /Users/Los/Documents/CSC/350/CSC350_3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap -I/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap -I/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap -iquote /Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap -F/Users/Los/Documents/CSC/350/CSC350_3/build/Debug -I/Users/Los/Documents/CSC/350/CSC350_3/build/Debug/include -I/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64 -I/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources -c /Users/Los/Documents/CSC/350/CSC350_3/Interpolation.cpp -o /Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Interpolation.o0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Newton.o "/Users/Los/Desktop/350/CSC350_3 copy/Newton.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s343269422.955783
+e343269423.238245
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Newton.o
+x/Users/Los/Desktop/350/CSC350_3 copy/Newton.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/Los/Desktop/350/CSC350_3 copy/Newton.cpp343269422#343269423#0(0"0(0#0#47"/Users/Los/Desktop/350/CSC350_3 copy/Newton.cpp8619094656#1313"    cd "/Users/Los/Desktop/350/CSC350_3 copy"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap" -iquote "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap" "-F/Users/Los/Desktop/350/CSC350_3 copy/build/Debug" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/Debug/include" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources" -c "/Users/Los/Desktop/350/CSC350_3 copy/Newton.cpp" -o "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Newton.o"0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Newton.o "/Users/Los/Desktop/CSC350_3 copy/Newton.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Newton.o "/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/Newton.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Newton.o "/Users/Los/Documents/CSC/350/CSC350_3 copy/Newton.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Newton.o /Users/Los/Desktop/csc350_3/Newton.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s326154692.003043
+e326154692.294805
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Newton.o
+x/Users/Los/Desktop/csc350_3/Newton.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/Los/Desktop/csc350_3/Newton.cpp326154692#326154692#0(0"0(0#0#38"/Users/Los/Desktop/csc350_3/Newton.cpp8606808800#1192"    cd /Users/Los/Desktop/csc350_3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap -F/Users/Los/Desktop/csc350_3/build/Debug -I/Users/Los/Desktop/csc350_3/build/Debug/include -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64 -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources -c /Users/Los/Desktop/csc350_3/Newton.cpp -o /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Newton.o0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Newton.o /Users/Los/Documents/CSC/350/CSC350_3/Newton.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver.o "/Users/Los/Desktop/350/CSC350_3 copy/NonlinearSolver.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s343269188.755456
+e343269188.785886
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver.o
+x/Users/Los/Desktop/350/CSC350_3 copy/NonlinearSolver.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/Los/Desktop/350/CSC350_3 copy/NonlinearSolver.cpp343269188#343269188#0(0"0(0#0#56"/Users/Los/Desktop/350/CSC350_3 copy/NonlinearSolver.cpp8620003072#1331"    cd "/Users/Los/Desktop/350/CSC350_3 copy"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap" -iquote "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap" "-F/Users/Los/Desktop/350/CSC350_3 copy/build/Debug" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/Debug/include" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources" -c "/Users/Los/Desktop/350/CSC350_3 copy/NonlinearSolver.cpp" -o "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver.o"0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver.o "/Users/Los/Desktop/CSC350_3 copy/NonlinearSolver.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver.o "/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/NonlinearSolver.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver.o "/Users/Los/Documents/CSC/350/CSC350_3 copy/NonlinearSolver.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver.o /Users/Los/Desktop/csc350_3/NonlinearSolver.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s326154691.847563
+e326154691.883419
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver.o
+x/Users/Los/Desktop/csc350_3/NonlinearSolver.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/Los/Desktop/csc350_3/NonlinearSolver.cpp326154691#326154691#0(0"0(0#0#47"/Users/Los/Desktop/csc350_3/NonlinearSolver.cpp8607404768#1210"    cd /Users/Los/Desktop/csc350_3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap -F/Users/Los/Desktop/csc350_3/build/Debug -I/Users/Los/Desktop/csc350_3/build/Debug/include -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64 -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources -c /Users/Los/Desktop/csc350_3/NonlinearSolver.cpp -o /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver.o0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver.o /Users/Los/Documents/CSC/350/CSC350_3/NonlinearSolver.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver_bisection.o "/Users/Los/Desktop/350/CSC350_3 copy/NonlinearSolver_bisection.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s343269188.723370
+e343269188.755365
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver_bisection.o
+x/Users/Los/Desktop/350/CSC350_3 copy/NonlinearSolver_bisection.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/Los/Desktop/350/CSC350_3 copy/NonlinearSolver_bisection.cpp343269188#343269188#0(0"0(0#0#66"/Users/Los/Desktop/350/CSC350_3 copy/NonlinearSolver_bisection.cpp8617176768#1351"    cd "/Users/Los/Desktop/350/CSC350_3 copy"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap" -iquote "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap" "-F/Users/Los/Desktop/350/CSC350_3 copy/build/Debug" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/Debug/include" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources" -c "/Users/Los/Desktop/350/CSC350_3 copy/NonlinearSolver_bisection.cpp" -o "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver_bisection.o"0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver_bisection.o "/Users/Los/Desktop/CSC350_3 copy/NonlinearSolver_bisection.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver_bisection.o "/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/NonlinearSolver_bisection.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver_bisection.o "/Users/Los/Documents/CSC/350/CSC350_3 copy/NonlinearSolver_bisection.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver_bisection.o /Users/Los/Desktop/csc350_3/NonlinearSolver_bisection.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s326154691.809337
+e326154691.847477
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver_bisection.o
+x/Users/Los/Desktop/csc350_3/NonlinearSolver_bisection.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/Los/Desktop/csc350_3/NonlinearSolver_bisection.cpp326154691#326154691#0(0"0(0#0#57"/Users/Los/Desktop/csc350_3/NonlinearSolver_bisection.cpp8607658880#1230"    cd /Users/Los/Desktop/csc350_3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap -F/Users/Los/Desktop/csc350_3/build/Debug -I/Users/Los/Desktop/csc350_3/build/Debug/include -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64 -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources -c /Users/Los/Desktop/csc350_3/NonlinearSolver_bisection.cpp -o /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver_bisection.o0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/NonlinearSolver_bisection.o /Users/Los/Documents/CSC/350/CSC350_3/NonlinearSolver_bisection.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Points.o "/Users/Los/Desktop/350/CSC350_3 copy/Points.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/PolyFunction1D.o "/Users/Los/Desktop/350/CSC350_3 copy/PolyFunction1D.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s343265243.823748
+e343265244.102826
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/PolyFunction1D.o
+x/Users/Los/Desktop/350/CSC350_3 copy/PolyFunction1D.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/Los/Desktop/350/CSC350_3 copy/PolyFunction1D.cpp343265243#343265244#0(0"0(0#0#55"/Users/Los/Desktop/350/CSC350_3 copy/PolyFunction1D.cpp8619494848#1329"    cd "/Users/Los/Desktop/350/CSC350_3 copy"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap" -iquote "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap" "-F/Users/Los/Desktop/350/CSC350_3 copy/build/Debug" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/Debug/include" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources" -c "/Users/Los/Desktop/350/CSC350_3 copy/PolyFunction1D.cpp" -o "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/PolyFunction1D.o"0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/PolyFunction1D.o "/Users/Los/Desktop/CSC350_3 copy/PolyFunction1D.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/PolyFunction1D.o "/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/PolyFunction1D.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/PolyFunction1D.o "/Users/Los/Documents/CSC/350/CSC350_3 copy/PolyFunction1D.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/PolyFunction1D.o /Users/Los/Desktop/csc350_3/PolyFunction1D.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s326154691.883506
+e326154692.193899
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/PolyFunction1D.o
+x/Users/Los/Desktop/csc350_3/PolyFunction1D.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/Los/Desktop/csc350_3/PolyFunction1D.cpp326154691#326154692#0(0"0(0#0#46"/Users/Los/Desktop/csc350_3/PolyFunction1D.cpp8607296224#1208"    cd /Users/Los/Desktop/csc350_3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap -F/Users/Los/Desktop/csc350_3/build/Debug -I/Users/Los/Desktop/csc350_3/build/Debug/include -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64 -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources -c /Users/Los/Desktop/csc350_3/PolyFunction1D.cpp -o /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/PolyFunction1D.o0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/PolyFunction1D.o /Users/Los/Documents/CSC/350/CSC350_3/PolyFunction1D.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s327368553.698245
+e327368553.891918
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/PolyFunction1D.o
+x/Users/Los/Documents/CSC/350/CSC350_3/PolyFunction1D.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/Los/Documents/CSC/350/CSC350_3/PolyFunction1D.cpp327368553#327368553#0(0"0(0#0#56"/Users/Los/Documents/CSC/350/CSC350_3/PolyFunction1D.cpp3917909816998063104#1318"    cd /Users/Los/Documents/CSC/350/CSC350_3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap -I/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap -I/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap -iquote /Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap -F/Users/Los/Documents/CSC/350/CSC350_3/build/Debug -I/Users/Los/Documents/CSC/350/CSC350_3/build/Debug/include -I/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64 -I/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources -c /Users/Los/Documents/CSC/350/CSC350_3/PolyFunction1D.cpp -o /Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/PolyFunction1D.o0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/RealEigenpair.o "/Users/Los/Desktop/350/CSC350_3 copy/RealEigenpair.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s343275058.805801
+e343275059.154459
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/RealEigenpair.o
+x/Users/Los/Desktop/350/CSC350_3 copy/RealEigenpair.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/Los/Desktop/350/CSC350_3 copy/RealEigenpair.cpp343275058#343275059#0(0"0(0#0#54"/Users/Los/Desktop/350/CSC350_3 copy/RealEigenpair.cpp8619464032#1327"    cd "/Users/Los/Desktop/350/CSC350_3 copy"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap" -iquote "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap" "-F/Users/Los/Desktop/350/CSC350_3 copy/build/Debug" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/Debug/include" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources" -c "/Users/Los/Desktop/350/CSC350_3 copy/RealEigenpair.cpp" -o "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/RealEigenpair.o"0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/RealEigenpair.o "/Users/Los/Desktop/CSC350_3 copy/RealEigenpair.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s328747775.203753
+e328747775.875286
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/RealEigenpair.o
+x/Users/Los/Desktop/CSC350_3 copy/RealEigenpair.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/Los/Desktop/CSC350_3 copy/RealEigenpair.cpp328747775#328747775#0(0"0(0#0#50"/Users/Los/Desktop/CSC350_3 copy/RealEigenpair.cpp8617036992#1283"    cd "/Users/Los/Desktop/CSC350_3 copy"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap" "-I/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap" "-I/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap" -iquote "/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap" "-F/Users/Los/Desktop/CSC350_3 copy/build/Debug" "-I/Users/Los/Desktop/CSC350_3 copy/build/Debug/include" "-I/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64" "-I/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources" -c "/Users/Los/Desktop/CSC350_3 copy/RealEigenpair.cpp" -o "/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/RealEigenpair.o"0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/RealEigenpair.o "/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/RealEigenpair.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/RealEigenpair.o "/Users/Los/Documents/CSC/350/CSC350_3 copy/RealEigenpair.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s335365494.049643
+e335365494.385952
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/RealEigenpair.o
+x/Users/Los/Documents/CSC/350/CSC350_3 copy/RealEigenpair.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/Los/Documents/CSC/350/CSC350_3 copy/RealEigenpair.cpp335365494#335365494#0(0"0(0#0#60"/Users/Los/Documents/CSC/350/CSC350_3 copy/RealEigenpair.cpp8618966464#1393"    cd "/Users/Los/Documents/CSC/350/CSC350_3 copy"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap" "-I/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap" "-I/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap" -iquote "/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap" "-F/Users/Los/Documents/CSC/350/CSC350_3 copy/build/Debug" "-I/Users/Los/Documents/CSC/350/CSC350_3 copy/build/Debug/include" "-I/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64" "-I/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources" -c "/Users/Los/Documents/CSC/350/CSC350_3 copy/RealEigenpair.cpp" -o "/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/RealEigenpair.o"0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/RealEigenpair.o /Users/Los/Documents/CSC/350/CSC350_3/RealEigenpair.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s328054528.359636
+e328054529.330554
+r0
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/RealEigenpair.o
+x/Users/Los/Documents/CSC/350/CSC350_3/RealEigenpair.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/Los/Documents/CSC/350/CSC350_3/RealEigenpair.cpp:5: error: prototype for 'RealEigenpair::RealEigenpair(float, csc350lib_linalg_base::Matrix<float>*)' does not match any in class 'RealEigenpair'
+o/Users/Los/Documents/CSC/350/CSC350_3/RealEigenpair.h:6: error: candidates are: RealEigenpair::RealEigenpair(const RealEigenpair&)
+o/Users/Los/Documents/CSC/350/CSC350_3/RealEigenpair.cpp:4: error:                 RealEigenpair::RealEigenpair()
+o/Users/Los/Documents/CSC/350/CSC350_3/RealEigenpair.h:8: error:                 RealEigenpair::RealEigenpair(float, const csc350lib_linalg_base::Matrix<float>*)
+lSLF07#2@63"Compile /Users/Los/Documents/CSC/350/CSC350_3/RealEigenpair.cpp328054528#328054529#0(606"/Users/Los/Documents/CSC/350/CSC350_3/RealEigenpair.cpp:5: error: prototype for 'RealEigenpair::RealEigenpair(float, csc350lib_linalg_base::Matrix<float>*)' does not match any in class 'RealEigenpair'/Users/Los/Documents/CSC/350/CSC350_3/RealEigenpair.h:6: error: candidates are: RealEigenpair::RealEigenpair(const RealEigenpair&)/Users/Los/Documents/CSC/350/CSC350_3/RealEigenpair.cpp:4: error:                 RealEigenpair::RealEigenpair()/Users/Los/Documents/CSC/350/CSC350_3/RealEigenpair.h:8: error:                 RealEigenpair::RealEigenpair(float, const csc350lib_linalg_base::Matrix<float>*)4(4@134"Prototype for 'RealEigenpair::RealEigenpair(float, csc350lib_linalg_base::Matrix<float>*)' does not match any in class 'RealEigenpair'328054529#0#201#0(6@55"/Users/Los/Documents/CSC/350/CSC350_3/RealEigenpair.cpp328047790#5#0#5#0#0"0(4@66"Candidates are: RealEigenpair::RealEigenpair(const RealEigenpair&)328054529#201#131#0(6@53"/Users/Los/Documents/CSC/350/CSC350_3/RealEigenpair.h328054415#6#0#6#0#0"0(4@30"RealEigenpair::RealEigenpair()328054529#332#113#0(6@55"/Users/Los/Documents/CSC/350/CSC350_3/RealEigenpair.cpp328047790#4#0#4#0#0"0(4@80"RealEigenpair::RealEigenpair(float, const csc350lib_linalg_base::Matrix<float>*)328054529#445#161#0(6@53"/Users/Los/Documents/CSC/350/CSC350_3/RealEigenpair.h328054415#8#0#8#0#0"0(0#0#55"/Users/Los/Documents/CSC/350/CSC350_3/RealEigenpair.cpp8614645056#1316"    cd /Users/Los/Documents/CSC/350/CSC350_3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap -I/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap -I/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap -iquote /Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap -F/Users/Los/Documents/CSC/350/CSC350_3/build/Debug -I/Users/Los/Documents/CSC/350/CSC350_3/build/Debug/include -I/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64 -I/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources -c /Users/Los/Documents/CSC/350/CSC350_3/RealEigenpair.cpp -o /Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/RealEigenpair.o1#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Secant.o "/Users/Los/Desktop/350/CSC350_3 copy/Secant.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s343269194.703718
+e343269194.998160
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Secant.o
+x/Users/Los/Desktop/350/CSC350_3 copy/Secant.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/Los/Desktop/350/CSC350_3 copy/Secant.cpp343269194#343269194#0(0"0(0#0#47"/Users/Los/Desktop/350/CSC350_3 copy/Secant.cpp8621227296#1313"    cd "/Users/Los/Desktop/350/CSC350_3 copy"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap" -iquote "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap" "-F/Users/Los/Desktop/350/CSC350_3 copy/build/Debug" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/Debug/include" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources" -c "/Users/Los/Desktop/350/CSC350_3 copy/Secant.cpp" -o "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Secant.o"0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Secant.o "/Users/Los/Desktop/CSC350_3 copy/Secant.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Secant.o "/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/Secant.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Secant.o "/Users/Los/Documents/CSC/350/CSC350_3 copy/Secant.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Secant.o /Users/Los/Desktop/csc350_3/Secant.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s326154691.395790
+e326154691.779264
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Secant.o
+x/Users/Los/Desktop/csc350_3/Secant.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/Los/Desktop/csc350_3/Secant.cpp326154691#326154691#0(0"0(0#0#38"/Users/Los/Desktop/csc350_3/Secant.cpp8602826240#1192"    cd /Users/Los/Desktop/csc350_3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap -F/Users/Los/Desktop/csc350_3/build/Debug -I/Users/Los/Desktop/csc350_3/build/Debug/include -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64 -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources -c /Users/Los/Desktop/csc350_3/Secant.cpp -o /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Secant.o0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/Secant.o /Users/Los/Documents/CSC/350/CSC350_3/Secant.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/SolutionNLE.o "/Users/Los/Desktop/350/CSC350_3 copy/SolutionNLE.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s343269189.000042
+e343269189.031065
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/SolutionNLE.o
+x/Users/Los/Desktop/350/CSC350_3 copy/SolutionNLE.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/Los/Desktop/350/CSC350_3 copy/SolutionNLE.cpp343269189#343269189#0(0"0(0#0#52"/Users/Los/Desktop/350/CSC350_3 copy/SolutionNLE.cpp8620587424#1323"    cd "/Users/Los/Desktop/350/CSC350_3 copy"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap" -iquote "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap" "-F/Users/Los/Desktop/350/CSC350_3 copy/build/Debug" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/Debug/include" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources" -c "/Users/Los/Desktop/350/CSC350_3 copy/SolutionNLE.cpp" -o "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/SolutionNLE.o"0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/SolutionNLE.o "/Users/Los/Desktop/CSC350_3 copy/SolutionNLE.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/SolutionNLE.o "/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/SolutionNLE.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/SolutionNLE.o "/Users/Los/Documents/CSC/350/CSC350_3 copy/SolutionNLE.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/SolutionNLE.o /Users/Los/Desktop/csc350_3/SolutionNLE.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s326154692.193974
+e326154692.227308
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/SolutionNLE.o
+x/Users/Los/Desktop/csc350_3/SolutionNLE.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/Los/Desktop/csc350_3/SolutionNLE.cpp326154692#326154692#0(0"0(0#0#43"/Users/Los/Desktop/csc350_3/SolutionNLE.cpp8606673952#1202"    cd /Users/Los/Desktop/csc350_3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap -F/Users/Los/Desktop/csc350_3/build/Debug -I/Users/Los/Desktop/csc350_3/build/Debug/include -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64 -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources -c /Users/Los/Desktop/csc350_3/SolutionNLE.cpp -o /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/SolutionNLE.o0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/SolutionNLE.o /Users/Los/Documents/CSC/350/CSC350_3/SolutionNLE.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/main.o "/Users/Los/Desktop/350/CSC350_3 copy/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s343290814.694497
+e343290815.166055
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/main.o
+x/Users/Los/Desktop/350/CSC350_3 copy/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/Los/Desktop/350/CSC350_3 copy/main.cpp343290814#343290815#0(0"0(0#0#45"/Users/Los/Desktop/350/CSC350_3 copy/main.cpp8622733472#1309"    cd "/Users/Los/Desktop/350/CSC350_3 copy"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap" -iquote "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap" "-F/Users/Los/Desktop/350/CSC350_3 copy/build/Debug" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/Debug/include" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64" "-I/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources" -c "/Users/Los/Desktop/350/CSC350_3 copy/main.cpp" -o "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/main.o "/Users/Los/Desktop/CSC350_3 copy/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s328748678.619809
+e328748680.016056
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/main.o
+x/Users/Los/Desktop/CSC350_3 copy/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/Los/Desktop/CSC350_3 copy/main.cpp328748678#328748680#0(0"0(0#0#41"/Users/Los/Desktop/CSC350_3 copy/main.cpp8599325600#1265"    cd "/Users/Los/Desktop/CSC350_3 copy"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap" "-I/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap" "-I/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap" -iquote "/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap" "-F/Users/Los/Desktop/CSC350_3 copy/build/Debug" "-I/Users/Los/Desktop/CSC350_3 copy/build/Debug/include" "-I/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64" "-I/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources" -c "/Users/Los/Desktop/CSC350_3 copy/main.cpp" -o "/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/main.o "/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/main.o "/Users/Los/Documents/CSC/350/CSC350_3 copy/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s337707058.094300
+e337707058.617119
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/main.o
+x/Users/Los/Documents/CSC/350/CSC350_3 copy/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/Los/Documents/CSC/350/CSC350_3 copy/main.cpp337707058#337707058#0(0"0(0#0#51"/Users/Los/Documents/CSC/350/CSC350_3 copy/main.cpp8614117632#1375"    cd "/Users/Los/Documents/CSC/350/CSC350_3 copy"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap" "-I/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap" "-I/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap" -iquote "/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap" "-F/Users/Los/Documents/CSC/350/CSC350_3 copy/build/Debug" "-I/Users/Los/Documents/CSC/350/CSC350_3 copy/build/Debug/include" "-I/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64" "-I/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/DerivedSources" -c "/Users/Los/Documents/CSC/350/CSC350_3 copy/main.cpp" -o "/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/main.o /Users/Los/Desktop/csc350_3/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s326154882.826387
+e326154883.095238
+r1
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/main.o
+x/Users/Los/Desktop/csc350_3/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/Los/Desktop/csc350_3/main.cpp326154882#326154883#0(0"0(0#0#36"/Users/Los/Desktop/csc350_3/main.cpp8603511552#1188"    cd /Users/Los/Desktop/csc350_3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap -iquote /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap -F/Users/Los/Desktop/csc350_3/build/Debug -I/Users/Los/Desktop/csc350_3/build/Debug/include -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64 -I/Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources -c /Users/Los/Desktop/csc350_3/main.cpp -o /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/main.o /Users/Los/Documents/CSC/350/CSC350_3/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s328054528.353735
+e328054529.476942
+r0
+xCompileC
+xbuild/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/main.o
+x/Users/Los/Documents/CSC/350/CSC350_3/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/Los/Documents/CSC/350/CSC350_3/main.cpp: In function 'int main(int, char* const*)':
+o/Users/Los/Documents/CSC/350/CSC350_3/main.cpp:22: error: invalid conversion from 'const RealEigenpair* const' to 'RealEigenpair*'
+lSLF07#2@54"Compile /Users/Los/Documents/CSC/350/CSC350_3/main.cpp328054528#328054529#0(222"/Users/Los/Documents/CSC/350/CSC350_3/main.cpp: In function 'int main(int, char* const*)':/Users/Los/Documents/CSC/350/CSC350_3/main.cpp:22: error: invalid conversion from 'const RealEigenpair* const' to 'RealEigenpair*'1(4@72"Invalid conversion from 'const RealEigenpair* const' to 'RealEigenpair*'328054529#91#131#0(6@46"/Users/Los/Documents/CSC/350/CSC350_3/main.cpp327285839#22#0#22#0#34"invalid conversion from '*' to '*'0(0#0#46"/Users/Los/Documents/CSC/350/CSC350_3/main.cpp8595049184#1298"    cd /Users/Los/Documents/CSC/350/CSC350_3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-generated-files.hmap -I/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-own-target-headers.hmap -I/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-all-target-headers.hmap -iquote /Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/csc350_3-project-headers.hmap -F/Users/Los/Documents/CSC/350/CSC350_3/build/Debug -I/Users/Los/Documents/CSC/350/CSC350_3/build/Debug/include -I/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources/x86_64 -I/Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/DerivedSources -c /Users/Los/Documents/CSC/350/CSC350_3/main.cpp -o /Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/main.o1#
+
+CCompileC build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/points.o "/Users/Los/Desktop/350/CSC350_3 copy/points.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd "/Users/Los/Desktop/350/CSC350_3 copy/build/Debug/csc350_3" normal x86_64
+s343290815.166146
+e343290815.190969
+r1
+xLd
+x/Users/Los/Desktop/350/CSC350_3 copy/build/Debug/csc350_3
+xnormal
+xx86_64
+lSLF07#2@62"Link /Users/Los/Desktop/350/CSC350_3 copy/build/Debug/csc350_3343290815#343290815#0(0"0(0#0#0"8622538048#502"    cd "/Users/Los/Desktop/350/CSC350_3 copy"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Los/Desktop/350/CSC350_3 copy/build/Debug" "-F/Users/Los/Desktop/350/CSC350_3 copy/build/Debug" -filelist "/Users/Los/Desktop/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/csc350_3.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Los/Desktop/350/CSC350_3 copy/build/Debug/csc350_3"0#
+
+CLd "/Users/Los/Desktop/CSC350_3 copy/build/Debug/csc350_3" normal x86_64
+s328748680.016136
+e328748680.345674
+r1
+xLd
+x/Users/Los/Desktop/CSC350_3 copy/build/Debug/csc350_3
+xnormal
+xx86_64
+lSLF07#2@58"Link /Users/Los/Desktop/CSC350_3 copy/build/Debug/csc350_3328748680#328748680#0(0"0(0#0#0"8601950496#482"    cd "/Users/Los/Desktop/CSC350_3 copy"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Los/Desktop/CSC350_3 copy/build/Debug" "-F/Users/Los/Desktop/CSC350_3 copy/build/Debug" -filelist "/Users/Los/Desktop/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/csc350_3.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Los/Desktop/CSC350_3 copy/build/Debug/csc350_3"0#
+
+CLd "/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/build/Debug/csc350_3" normal x86_64
+s348592080.068769
+e348592080.866982
+r1
+xLd
+x/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/build/Debug/csc350_3
+xnormal
+xx86_64
+lSLF07#2@80"Link /Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/build/Debug/csc350_3348592080#348592080#0(0"0(0#0#0"2320302893681558528#592"    cd "/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/build/Debug" "-F/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/build/Debug" -filelist "/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/csc350_3.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Los/Desktop/Numerical_Mathematics/CSC350_3 copy/build/Debug/csc350_3"0#
+
+CLd "/Users/Los/Documents/CSC/350/CSC350_3 copy/build/Debug/csc350_3" normal x86_64
+s337707058.617198
+e337707058.644214
+r1
+xLd
+x/Users/Los/Documents/CSC/350/CSC350_3 copy/build/Debug/csc350_3
+xnormal
+xx86_64
+lSLF07#2@68"Link /Users/Los/Documents/CSC/350/CSC350_3 copy/build/Debug/csc350_3337707058#337707058#0(0"0(0#0#0"8614312000#566"    cd "/Users/Los/Documents/CSC/350/CSC350_3 copy"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Los/Documents/CSC/350/CSC350_3 copy/build/Debug" "-F/Users/Los/Documents/CSC/350/CSC350_3 copy/build/Debug" -filelist "/Users/Los/Documents/CSC/350/CSC350_3 copy/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/csc350_3.LinkFileList" -mmacosx-version-min=10.6 -framework OpenGL -framework GLUT -o "/Users/Los/Documents/CSC/350/CSC350_3 copy/build/Debug/csc350_3"0#
+
+CLd /Users/Los/Desktop/csc350_3/build/Debug/csc350_3 normal x86_64
+s326154883.095760
+e326154883.115701
+r1
+xLd
+x/Users/Los/Desktop/csc350_3/build/Debug/csc350_3
+xnormal
+xx86_64
+lSLF07#2@53"Link /Users/Los/Desktop/csc350_3/build/Debug/csc350_3326154883#326154883#0(0"0(0#0#0"8605159648#447"    cd /Users/Los/Desktop/csc350_3    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Los/Desktop/csc350_3/build/Debug -F/Users/Los/Desktop/csc350_3/build/Debug -filelist /Users/Los/Desktop/csc350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/csc350_3.LinkFileList -mmacosx-version-min=10.6 -o /Users/Los/Desktop/csc350_3/build/Debug/csc350_30#
+
+CLd /Users/Los/Documents/CSC/350/CSC350_3/build/Debug/csc350_3 normal x86_64
+s328047160.720367
+e328047161.854933
+r1
+xLd
+x/Users/Los/Documents/CSC/350/CSC350_3/build/Debug/csc350_3
+xnormal
+xx86_64
+lSLF07#2@63"Link /Users/Los/Documents/CSC/350/CSC350_3/build/Debug/csc350_3328047160#328047161#0(0"0(0#0#0"8606856256#497"    cd /Users/Los/Documents/CSC/350/CSC350_3    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Los/Documents/CSC/350/CSC350_3/build/Debug -F/Users/Los/Documents/CSC/350/CSC350_3/build/Debug -filelist /Users/Los/Documents/CSC/350/CSC350_3/build/csc350_3.build/Debug/csc350_3.build/Objects-normal/x86_64/csc350_3.LinkFileList -mmacosx-version-min=10.6 -o /Users/Los/Documents/CSC/350/CSC350_3/build/Debug/csc350_30#
+
